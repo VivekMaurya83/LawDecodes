@@ -1,0 +1,321 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap");
+
+:root {
+  --bg: #f2f6fb;
+  --card: #ffffff;
+  --primary: #0b74de; /* vivid blue */
+  --primary-700: #075ea8;
+  --muted: #6b7280;
+  --success: #16a34a;
+  --danger: #ef4444;
+  --glass: rgba(255, 255, 255, 0.7);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: linear-gradient(
+      rgba(6, 21, 40, 0.45),
+      rgba(6, 21, 40, 0.45)
+    ),
+    url("https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-4.0.3&auto=format&fit=crop&w=2029&q=80");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrapper {
+  width: min(760px, 94%); /* comfortable width */
+  background: var(--card);
+  border-radius: 14px;
+  box-shadow: 0 12px 30px rgba(2, 6, 23, 0.12);
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* balanced columns */
+  min-height: 460px; /* comfortable height */
+}
+.form-box {
+  padding: 20px 24px; /* restored comfortable padding */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 8px;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.98),
+    rgba(255, 255, 255, 0.95)
+  );
+}
+
+.form-box h2 {
+  font-size: 22px; /* smaller */
+  color: #07203a;
+  margin-bottom: 6px;
+  letter-spacing: -0.2px;
+}
+
+.form-box h2::after {
+  content: "";
+  display: block;
+  width: 56px;
+  height: 5px;
+  background: linear-gradient(90deg, var(--primary), var(--primary-700));
+  border-radius: 4px;
+  margin-top: 10px;
+}
+
+.input-box {
+  position: relative;
+  width: 100%;
+  margin: 14px 0; /* comfortable spacing between inputs */
+}
+
+.input-box input,
+.select-box select {
+  width: 100%;
+  padding: 14px 36px 12px 10px; /* comfortable vertical padding */
+  font-size: 15px; /* comfortable text size */
+  border-radius: 8px;
+  border: 1px solid #e6eef7;
+  background: linear-gradient(180deg, #fff, #fbfdff);
+  color: #082033;
+  outline: none;
+  transition: box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.input-box input:focus,
+.select-box select:focus {
+  border-color: var(--primary);
+  box-shadow: 0 6px 18px rgba(11, 116, 222, 0.12);
+}
+
+.input-box label {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 14px;
+  color: var(--muted);
+  pointer-events: none;
+  transition: transform 0.18s ease, font-size 0.18s ease, color 0.18s ease,
+    top 0.18s ease;
+  background: var(--card);
+  padding: 0 10px;
+  z-index: 2;
+  display: inline-block;
+  line-height: 1;
+}
+
+.input-box input:focus + label,
+.input-box input:not(:placeholder-shown) + label,
+.input-box input:valid + label {
+  top: -10px;
+  transform: none;
+  font-size: 12px;
+  color: var(--primary-700);
+}
+
+.input-box i {
+  position: absolute;
+  top: 50%;
+  right: 12px;
+  transform: translateY(-50%);
+  font-size: 18px;
+  color: #9aa6b2;
+}
+
+/* Primary / submit button */
+form button {
+  width: 100%;
+  height: 44px; /* restored comfortable button height */
+  background: linear-gradient(90deg, var(--primary), var(--primary-700));
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 8px;
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+
+form button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(11, 116, 222, 0.12);
+}
+
+.linkTxt {
+  font-size: 14px;
+  color: var(--muted);
+  text-align: left;
+  margin-top: 12px;
+}
+
+.linkTxt a {
+  color: var(--primary-700);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.info-text {
+  padding: 12px 12px; /* tightened vertically to reduce overall height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 6px;
+  background: linear-gradient(180deg, var(--primary), var(--primary-700));
+  color: #fff;
+}
+
+.info-text h2 {
+  font-size: 16px; /* smaller to fit the slimmer card */
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.info-text p {
+  font-size: 15px;
+  opacity: 0.95;
+}
+
+.site-title {
+  position: absolute;
+  top: 12px;
+  left: 14px;
+  font-size: 1.15rem; /* reduced */
+  color: #fff;
+  text-shadow: 0 6px 14px rgba(2, 6, 23, 0.36);
+  letter-spacing: 1.2px;
+  font-weight: 700;
+  z-index: 10;
+}
+
+/* Password validation box */
+#password-validation-message {
+  margin-top: 6px;
+  background: linear-gradient(
+    180deg,
+    rgba(230, 243, 255, 0.9),
+    rgba(250, 250, 255, 0.9)
+  );
+  border: 1px solid #e1f0ff;
+  padding: 8px 10px; /* slightly smaller */
+  border-radius: 8px;
+}
+
+#password-validation-message ul {
+  list-style: none;
+  display: grid;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+}
+
+#password-validation-message li {
+  font-size: 12px;
+  color: var(--muted);
+  padding-left: 18px;
+  position: relative;
+}
+
+#password-validation-message li::before {
+  content: "✕";
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: var(--danger);
+  font-weight: 700;
+}
+
+#password-validation-message li.valid::before {
+  content: "✓";
+  color: var(--success);
+}
+
+#password-validation-message li.valid {
+  color: #08321a;
+}
+
+/* select box adjustments */
+.select-box {
+  position: relative;
+  margin: 14px 0;
+}
+
+.select-box i {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #9aa6b2;
+  pointer-events: none;
+}
+
+/* Security section buttons */
+#securitySection button {
+  width: 48%;
+  height: 44px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  margin: 10px 1%;
+}
+
+/* Ensure security section buttons stay side-by-side (overrides generic form button) */
+#securitySection form button {
+  width: 48%;
+  display: inline-block;
+}
+
+#backToSignupBtn {
+  background: transparent;
+  color: #0b2b45;
+  border: 1px solid #d7e9ff;
+}
+#signupBtn {
+  background: linear-gradient(90deg, var(--primary), var(--primary-700));
+  color: #fff;
+}
+
+/* responsiveness */
+@media (max-width: 820px) {
+  .wrapper {
+    grid-template-columns: 1fr;
+    min-height: auto;
+  }
+  .info-text {
+    padding: 28px;
+  }
+}
+
+@media (max-width: 480px) {
+  .form-box {
+    padding: 22px;
+  }
+  .site-title {
+    left: 14px;
+    top: 12px;
+    font-size: 1.5rem;
+  }
+}
+
+#signupFields,
+#securitySection {
+  transition: all 0.28s ease;
+}

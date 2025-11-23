@@ -1,0 +1,22 @@
+Here is the extracted text from the Access Control Report:
+
+**Campus Access Control Report**
+
+This report summarizes the access control logs for Gate 1 on October 3, 2025. It highlights granted and denied entries with details of individuals attempting entry.
+
+**Summary:**
+*   Total Logs: 71
+*   Granted Entries: 55
+*   Denied Entries: 16
+*   Most Frequent User: Vivek Maurya (Multiple accesses)
+*   Suspicious Activity: Several denied attempts with Unknown IDs (e.g., 901234567, 23102044)
+
+| Log ID | Name            | Unique ID   | Decision | Time  | Gate   |
+|--------|-----------------|-------------|----------|-------|--------|
+| 2      | Yash Agarwal    | 22102074    | Granted  | 18:03 | Gate 1 |
+| 3      | Rushikesh Nikam | 10000001    | Granted  | 18:06 | Gate 1 |
+| 32     | Unknown         | 789012345   | Denied   | 19:39 | Gate 1 |
+| 41     | Vivek Maurya    | 23102044    | Granted  | 20:29 | Gate 1 |
+| 65     | Unknown         | 901234567   | Denied   | 22:14 | Gate 1 |
+
+This data indicates a need for closer monitoring of repeated unknown ID attempts. The system is effectively logging both valid and suspicious activities for security tracking.

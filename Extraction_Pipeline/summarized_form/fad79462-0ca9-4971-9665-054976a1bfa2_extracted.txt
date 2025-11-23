@@ -1,0 +1,20 @@
+INDEPENDENT CONTRACTOR AGREEMENT
+
+This Independent Contractor Agreement Agreement") is made and entered into as of this 31 Oct 2025 and between Vinayak Mishra Client"), with principal place of business waldhuni; Kalyan and Vedant Mallya Contractor' with principal place of business at Parsik Colony; Kalwa(Thane-Nickname for them):
+
+WHEREAS, the Client is in need of services in the area of [Description of Services]; and WHEREAS; the Contractor has the requisite skills and experience to provide said services;
+
+NOW; THEREFORE_ in consideration of the mutual covenants and promises contained herein, the parties agree as follows: Services: The Contractor agrees to perform the following services for the Client (the Services"):
+Develop five-page responsive corporate website based on the Figma design mockups provided by the Client The pages shall include: Home About Us; Services; Blog- and Contact:
+Implement frontend development using HTML, CSS and JavaScript; ensuring cross_ browser compatibility with the atest versions of Chrome, Firefox, and Safari.
+Integrate third-party Content Management System (CMS) to allow the Client to manage blog ' content:
+Develop and integrate functional contact form that sends submissions to designated email address and provides an automated confirmation response
+Deploy the final; pproved website to the Client $ specified hosting provider and conduct post-launch user acceptance testing (UAT) to ensure full functionality:
+
+2. Term.
+
+This Agreement shall commence on the date first written above and shall continue until the Services are completed; or until terminated earlier by either party upon providing thirty (30) days written notice_
+
+Compensation:
+
+The Client agrees to pay the Contractor the sum of 500 Dollars (S500) upon satisfactory completion of the Services_ No other fees and/or expenses will be paid to the Contractor; unless such fees and/or expenses have been approved in advance by the Client in writing: The Contractor shall be solely responsible for any and all taxes, Social Security contributions or payments, disability insurance, unemployment taxes_ and other payroll type taxes.

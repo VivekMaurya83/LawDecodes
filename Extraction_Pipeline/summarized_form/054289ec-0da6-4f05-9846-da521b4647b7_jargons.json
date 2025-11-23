@@ -1,0 +1,59 @@
+{
+  "terms": [
+    {
+      "term": "Confidential and Proprietary Information",
+      "definition": "Information that is private to a company, not for public sharing, and whose disclosure could cause harm or give an unfair advantage to others.",
+      "source": "gemini"
+    },
+    {
+      "term": "Conflict of Interest",
+      "definition": "A situation where a person's personal interests, connections, or loyalties could inappropriately influence their professional judgment or actions.",
+      "source": "gemini"
+    },
+    {
+      "term": "Disciplinary Action",
+      "definition": "Measures taken by an employer to correct an employee's unacceptable behavior, performance, or rule violations.",
+      "source": "gemini"
+    },
+    {
+      "term": "Employee Code of Conduct",
+      "definition": "A document outlining the expected ethical and behavioral standards and rules that employees must follow while working for an organization.",
+      "source": "gemini"
+    },
+    {
+      "term": "condition of employment",
+      "definition": "A specific requirement or stipulation that an individual must meet or adhere to in order to be hired or remain employed.",
+      "source": "gemini"
+    },
+    {
+      "term": "infraction",
+      "definition": "A minor violation or breach of a rule, law, or agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "legal action",
+      "definition": "The process of using the court system to resolve a dispute, enforce a right, or punish an offense.",
+      "source": "gemini"
+    },
+    {
+      "term": "reserves the right",
+      "definition": "Retains the power or option to take a specific action or make a decision later, often without prior notice.",
+      "source": "gemini"
+    },
+    {
+      "term": "termination of employment",
+      "definition": "The official ending of a person's job or working relationship with an employer.",
+      "source": "gemini"
+    },
+    {
+      "term": "third party",
+      "definition": "A person or entity involved in a situation or agreement but not one of the two primary individuals or organizations directly concerned.",
+      "source": "gemini"
+    },
+    {
+      "term": "written consent",
+      "definition": "Formal approval or agreement that has been documented in writing.",
+      "source": "gemini"
+    }
+  ]
+}

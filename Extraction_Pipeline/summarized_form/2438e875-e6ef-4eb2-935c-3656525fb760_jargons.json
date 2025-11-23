@@ -1,0 +1,54 @@
+{
+  "terms": [
+    {
+      "term": "Confidential Information",
+      "definition": "Information that is not publicly known and is required to be kept secret to protect a person or entity's interests.",
+      "source": "gemini"
+    },
+    {
+      "term": "Conflict of Interest",
+      "definition": "A situation where a person's private interests, such as personal relationships or financial gain, could improperly influence their professional duties or decisions.",
+      "source": "gemini"
+    },
+    {
+      "term": "Disciplinary Action",
+      "definition": "Steps taken by an employer to address an employee's misconduct, poor performance, or violation of rules.",
+      "source": "gemini"
+    },
+    {
+      "term": "Proprietary Information",
+      "definition": "Information owned by a business or individual, such as trade secrets or intellectual property, that provides a competitive advantage and is restricted from disclosure.",
+      "source": "gemini"
+    },
+    {
+      "term": "condition of employment",
+      "definition": "A specific requirement that an individual must meet or maintain to be hired for or continue in a job.",
+      "source": "gemini"
+    },
+    {
+      "term": "disciplinary measures",
+      "definition": "Specific actions or penalties imposed to correct or punish undesirable behavior or performance.",
+      "source": "gemini"
+    },
+    {
+      "term": "legal action",
+      "definition": "The process of bringing a lawsuit or other formal proceedings in a court of law to resolve a dispute or enforce a right.",
+      "source": "gemini"
+    },
+    {
+      "term": "prior written consent",
+      "definition": "Permission that has been formally given in writing before a particular action or event takes place.",
+      "source": "gemini"
+    },
+    {
+      "term": "termination of employment",
+      "definition": "The ending of an individual's job with an organization, whether initiated by the employee or the employer.",
+      "source": "gemini"
+    },
+    {
+      "term": "third party",
+      "definition": "An individual or entity who is involved in a situation or agreement but is not one of the primary parties directly concerned.",
+      "source": "gemini"
+    }
+  ]
+}

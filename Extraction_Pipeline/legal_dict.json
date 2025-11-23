@@ -1,0 +1,1098 @@
+[
+  {
+    "term": "Ab Initio",
+    "definition": "A Latin term meaning 'from the beginning'. In law, it is used to indicate that something is the case from the start or from the instant of the act, rather than from a later time."
+  },
+  {
+    "term": "Acquittal",
+    "definition": "A formal judgment in a criminal case that a defendant is not guilty of the crime with which they have been charged. An acquittal can occur after a trial or when a judge determines there is insufficient evidence."
+  },
+  {
+    "term": "Ad Hoc",
+    "definition": "A Latin phrase meaning 'for this'. It generally signifies a solution designed for a specific problem or task, non-generalizable, and not intended to be able to be adapted to other purposes."
+  },
+  {
+    "term": "Affidavit",
+    "definition": "A written statement confirmed by oath or affirmation, for use as evidence in court. It is a sworn statement of fact that can be used as evidence in legal proceedings."
+  },
+  {
+    "term": "Alimony",
+    "definition": "A legal obligation on a person to provide financial support to their spouse before or after marital separation or divorce. It is also known as spousal support."
+  },
+  {
+    "term": "Amendment",
+    "definition": "A formal or official change made to a law, contract, constitution, or other legal document. It is based on the verb to amend, which means to change for the better."
+  },
+  {
+    "term": "Annulment",
+    "definition": "A legal procedure that declares a marriage null and void. Unlike a divorce, it is usually retroactive, meaning that an annulled marriage is considered to be invalid from the beginning."
+  },
+  {
+    "term": "Appeal",
+    "definition": "A process in which a case is reviewed by a higher court to determine if the decision made by the lower court was legally correct. The party filing the appeal is known as the appellant."
+  },
+  {
+    "term": "Arraignment",
+    "definition": "A formal reading of a criminal charging document in the presence of the defendant to inform them of the charges against them. In response to arraignment, the accused is expected to enter a plea."
+  },
+  {
+    "term": "Attorney-Client Privilege",
+    "definition": "A legal privilege that works to keep confidential communications between an attorney and his or her client secret. The privilege is asserted in the face of a legal demand for the communications, such as a discovery request or a demand that the lawyer testify under oath."
+  },
+  {
+    "term": "Bail",
+    "definition": "The temporary release of an accused person awaiting trial, sometimes on condition that a sum of money be lodged to guarantee their appearance in court. The money is returned if the defendant appears at trial."
+  },
+  {
+    "term": "Bankruptcy",
+    "definition": "A legal proceeding involving a person or business that is unable to repay outstanding debts. The process begins with a petition filed by the debtor, which is most common, or on behalf of creditors, which is less common."
+  },
+  {
+    "term": "Bar",
+    "definition": "The professional association of lawyers, as in the 'American Bar Association'. To 'pass the bar' is to pass the bar examination, which is required to be licensed to practice law in a given jurisdiction."
+  },
+  {
+    "term": "Bill of Rights",
+    "definition": "The first ten amendments to the US Constitution, which outline the fundamental rights and freedoms of citizens, such as freedom of speech and religion, and the right to a fair trial."
+  },
+  {
+    "term": "Bona Fide",
+    "definition": "A Latin term meaning 'in good faith'. In legal terms, it refers to an act done with an honest and sincere intention, without any knowledge of deceit or fraud."
+  },
+  {
+    "term": "Breach of Contract",
+    "definition": "A legal cause of action and a type of civil wrong, in which a binding agreement or bargained-for exchange is not honored by one or more of the parties to the contract by non-performance or interference with the other party's performance."
+  },
+  {
+    "term": "Bylaws",
+    "definition": "A set of rules established by an organization or community to regulate itself, as allowed or provided for by some higher authority. Bylaws are the internal rules that govern the operations of a corporation or other organization."
+  },
+  {
+    "term": "Caveat Emptor",
+    "definition": "A Latin phrase meaning 'let the buyer beware'. It is a principle of contract law in many jurisdictions that places the onus on the buyer to perform due diligence before making a purchase."
+  },
+  {
+    "term": "Certiorari",
+    "definition": "A writ or order by which a higher court reviews a decision of a lower court. A 'writ of certiorari' is an order from an appellate court to a lower court to send the records of a specified case for review."
+  },
+  {
+    "term": "Common Law",
+    "definition": "A body of unwritten laws based on legal precedents established by the courts. Common law influences the decision-making process in individual cases where the outcome cannot be determined based on existing statutes."
+  },
+  {
+    "term": "Contract",
+    "definition": "A legally enforceable agreement between two or more parties that creates an obligation to do or not do particular things. A contract must have an offer, acceptance, consideration, and mutual intent to be bound."
+  },
+  {
+    "term": "Conviction",
+    "definition": "The outcome of a criminal prosecution which concludes in a judgment that the defendant is guilty of the crime charged. A conviction is the result of a guilty plea or a guilty verdict from a judge or jury."
+  },
+  {
+    "term": "Copyright",
+    "definition": "A legal right that grants the creator of an original work exclusive rights for its use and distribution. This right is usually for a limited time and applies to literary, artistic, and musical works."
+  },
+  {
+    "term": "Damages",
+    "definition": "An award, typically of money, to be paid to a person as compensation for loss or injury. The rules for damages can vary based on the type of claim which is presented (e.g., breach of contract versus a tort claim)."
+  },
+  {
+    "term": "Deed",
+    "definition": "A legal document that is signed and delivered, especially one regarding the ownership of property or legal rights. It is used to transfer ownership of real property from one person to another."
+  },
+  {
+    "term": "Defamation",
+    "definition": "The act of communicating false statements about a person that injure the reputation of that person. Spoken defamation is called slander, and written defamation is called libel."
+  },
+  {
+    "term": "Defendant",
+    "definition": "An individual, company, or institution sued or accused in a court of law. The defendant is the party against whom a criminal or civil action is brought."
+  },
+  {
+    "term": "Deposition",
+    "definition": "The out-of-court oral testimony of a witness that is reduced to a written transcript for later use in court or for discovery purposes. It is part of the pre-trial discovery process."
+  },
+  {
+    "term": "Due Process",
+    "definition": "A legal requirement that the state must respect all legal rights that are owed to a person. It balances the power of law of the land and protects the individual person from it, ensuring fair treatment through the judicial system."
+  },
+  {
+    "term": "Easement",
+    "definition": "A legal right to use another person's land for a specific purpose. A common example is an easement that allows a utility company to run power lines across a private property."
+  },
+  {
+    "term": "Eminent Domain",
+    "definition": "The right of a government or its agent to expropriate private property for public use, with payment of compensation. This power is often used for building highways, public schools, or parks."
+  },
+  {
+    "term": "Ex Parte",
+    "definition": "A Latin phrase meaning 'from one party'. A legal proceeding is conducted ex parte when it is heard with only one of the parties present, usually due to an emergency or the other party's failure to appear."
+  },
+  {
+    "term": "Felony",
+    "definition": "A serious crime, typically one involving violence, regarded as more severe than a misdemeanor. Felonies are usually punishable by imprisonment for more than a year or by death."
+  },
+  {
+    "term": "Fiduciary",
+    "definition": "A person or organization that acts on behalf of another person or persons, putting their clients' interests ahead of their own, with a duty to preserve good faith and trust. A trustee or a company director is a fiduciary."
+  },
+  {
+    "term": "Foreclosure",
+    "definition": "The legal process by which a lender attempts to recover the balance of a loan from a borrower who has stopped making payments by forcing the sale of the asset used as the collateral for the loan (most commonly, a house)."
+  },
+  {
+    "term": "Grand Jury",
+    "definition": "A jury, typically of twenty-three jurors, selected to examine the validity of an accusation before trial. A grand jury has the power to investigate potential criminal conduct and determine whether criminal charges should be brought."
+  },
+  {
+    "term": "Habeas Corpus",
+    "definition": "A legal recourse in which a person can report an unlawful detention or imprisonment to a court. The court can then order the custodian of the person to bring the prisoner to court to determine if the detention is lawful."
+  },
+  {
+    "term": "Hearsay",
+    "definition": "An out-of-court statement offered in court to prove the truth of the matter asserted. Hearsay evidence is generally inadmissible in court because it is not considered reliable."
+  },
+  {
+    "term": "Indictment",
+    "definition": "A formal accusation that a person has committed a crime. In jurisdictions that use the concept of a grand jury, an indictment is the formal accusation issued by that grand jury."
+  },
+  {
+    "term": "Injunction",
+    "definition": "A court order that compels a party to either do a specific act or refrain from doing a specific act. A party that fails to comply with an injunction faces criminal or civil penalties."
+  },
+  {
+    "term": "Ipso Facto",
+    "definition": "A Latin phrase, meaning 'by the fact itself'. It means that a certain effect is a direct consequence of an action in question, instead of being brought about by a subsequent action."
+  },
+  {
+    "term": "Judicial Review",
+    "definition": "The power of a court to review the actions of public sector bodies and declare them unlawful if they are found to be unconstitutional. It is a key part of the separation of powers."
+  },
+  {
+    "term": "Jurisdiction",
+    "definition": "The official power to make legal decisions and judgments. It refers to the authority of a court to hear and decide a case, based on geographical location and the subject matter of the case."
+  },
+  {
+    "term": "Jurisprudence",
+    "definition": "The theory or philosophy of law. Scholars of jurisprudence seek to explain the nature of law in its most general form and provide a deeper understanding of legal reasoning and analogy, legal systems, legal institutions, and the role of law in society."
+  },
+  {
+    "term": "Jury",
+    "definition": "A body of people (typically twelve in number) sworn to give a verdict in a legal case on the basis of evidence submitted to them in court. A trial jury is also known as a petit jury."
+  },
+  {
+    "term": "Liability",
+    "definition": "The state of being legally responsible for something. A person or company is said to be liable for any damages or losses caused by their actions or inactions."
+  },
+  {
+    "term": "Lien",
+    "definition": "A legal right or claim against a property by a creditor. A lien serves to guarantee an underlying obligation, such as the repayment of a loan. If the obligation is not satisfied, the creditor may be able to seize the property."
+  },
+  {
+    "term": "Litigation",
+    "definition": "The process of taking legal action. It refers to the proceedings initiated between two opposing parties to enforce or defend a legal right. Litigation is most commonly used to resolve disputes."
+  },
+  {
+    "term": "Mens Rea",
+    "definition": "A Latin term meaning 'guilty mind'. It refers to the mental state or intent of a person while committing a crime, which is a necessary element for many criminal offenses."
+  },
+  {
+    "term": "Merger",
+    "definition": "A corporate strategy of combining two or more companies into a single company, in order to enhance the financial and operational strengths of both organizations. An acquisition is similar but involves one company buying another."
+  },
+  {
+    "term": "Misdemeanor",
+    "definition": "A minor wrongdoing or a criminal offense that is less serious than a felony. Misdemeanors are generally punishable by a fine or a short-term jail sentence."
+  },
+  {
+    "term": "Mortgage",
+    "definition": "A loan used to purchase or maintain a home, land, or other types of real estate. The borrower agrees to pay the lender over time, typically in a series of regular payments that are divided into principal and interest."
+  },
+  {
+    "term": "Negligence",
+    "definition": "A failure to behave with the level of care that someone of ordinary prudence would have exercised under the same circumstances. The behavior usually consists of actions, but can also consist of omissions when there is some duty to act."
+  },
+  {
+    "term": "Parole",
+    "definition": "The early release of a prisoner who agrees to abide by certain conditions. It is distinct from probation, which is a sentence in itself, as parole is a form of conditional release after a prison sentence has been served."
+  },
+  {
+    "term": "Patent",
+    "definition": "A government authority or license conferring a right or title for a set period, especially the sole right to exclude others from making, using, or selling an invention."
+  },
+  {
+    "term": "Plaintiff",
+    "definition": "The person or party who brings a case against another in a court of law. In a criminal action, the prosecution is the plaintiff, acting on behalf of the state."
+  },
+  {
+    "term": "Plea Bargain",
+    "definition": "An agreement in a criminal case between the prosecutor and defendant whereby the defendant agrees to plead guilty to a particular charge in return for some concession from the prosecutor."
+  },
+  {
+    "term": "Power of Attorney",
+    "definition": "A legal document giving one person (the agent or attorney-in-fact) the power to act for another person (the principal). The agent can have broad legal authority or limited authority to make decisions."
+  },
+  {
+    "term": "Precedent",
+    "definition": "A legal principle or rule created by a court decision, which is then used as a guide for deciding subsequent cases with similar issues or facts. It is the cornerstone of the common law system."
+  },
+  {
+    "term": "Prenuptial Agreement",
+    "definition": "A written contract entered into by a couple before marriage that enables them to select and control many of the legal rights they acquire upon marrying, and what happens when their marriage eventually ends by death or divorce."
+  },
+  {
+    "term": "Pro Bono",
+    "definition": "A Latin phrase for professional work undertaken voluntarily and without payment. Pro bono publico means 'for the public good,' and lawyers often provide pro bono services to clients who cannot afford them."
+  },
+  {
+    "term": "Probate",
+    "definition": "The official legal process of proving that a deceased person's will is valid. It also involves identifying and inventorying the deceased person's property, paying debts and taxes, and distributing the remaining property as the will directs."
+  },
+  {
+    "term": "Probation",
+    "definition": "A sentence imposed by a court in which a convicted person is released into the community under the supervision of a probation officer. It is an alternative to a jail or prison sentence."
+  },
+
+  {
+    "term": "Quid Pro Quo",
+    "definition": "A Latin phrase used in English to mean an exchange of goods or services, in which one transfer is contingent upon the other; 'a favour for a favour'. In a legal context, it can refer to an illegal exchange, such as in bribery or harassment cases."
+  },
+  {
+    "term": "Restraining Order",
+    "definition": "A temporary court order issued to prohibit an individual from carrying out a particular action, especially approaching or contacting a specified person. It is a form of injunction."
+  },
+  {
+    "term": "Separation of Powers",
+    "definition": "A model for the governance of a state. Under this model, a state's government is divided into branches, each with separate and independent powers and areas of responsibility so that the powers of one branch are not in conflict with the powers associated with the other branches."
+  },
+  {
+    "term": "Statute",
+    "definition": "A written law passed by a legislative body. Statutes are enacted by legislatures at the federal, state, or local level and command or prohibit something, or declare policy."
+  },
+  {
+    "term": "Statute of Limitations",
+    "definition": "A law that sets the maximum time after an event within which legal proceedings may be initiated. When the period of time specified in a statute of limitations runs out, a claim can no longer be filed."
+  },
+  {
+    "term": "Subpoena",
+    "definition": "A writ issued by a government agency, most often a court, to compel testimony by a witness or production of evidence under a penalty for failure. It is a formal order to appear in court."
+  },
+  {
+    "term": "Testimony",
+    "definition": "A form of evidence that is obtained from a witness who makes a solemn statement or declaration of fact. Testimony may be oral or written, and it is usually made by oath or affirmation under penalty of perjury."
+  },
+  {
+    "term": "Title",
+    "definition": "In property law, a title is a bundle of rights in a piece of property in which a party may own either a legal interest or an equitable interest. It refers to the legal concept of ownership."
+  },
+  {
+    "term": "Tort",
+    "definition": "A civil wrong that causes a claimant to suffer loss or harm, resulting in legal liability for the person who commits the tortious act. Examples of torts include negligence, defamation, and personal injury."
+  },
+  {
+    "term": "Trademark",
+    "definition": "A recognizable sign, design, or expression which identifies products or services of a particular source from those of others. A trademark serves as a brand name and is a form of intellectual property."
+  },
+  {
+    "term": "Trust",
+    "definition": "A legal relationship in which one party, known as a trustor, gives another party, the trustee, the right to hold title to property or assets for the benefit of a third party, the beneficiary."
+  },
+  {
+    "term": "Verdict",
+    "definition": "The formal finding of fact made by a jury on matters or questions submitted to the jury by a judge. In a bench trial, the judge's decision near the end of the trial is simply referred to as a finding."
+  },
+  {
+    "term": "Warrant",
+    "definition": "A legal document issued by a judge or magistrate that authorizes the police to perform a specific act, such as making an arrest, searching a premises, or seizing property."
+  },
+  {
+    "term": "Will",
+    "definition": "A legal document by which a person, the testator, expresses their wishes as to how their property is to be distributed at death, and names one or more persons, the executor, to manage the estate until its final distribution."
+  }
+,
+  {
+    "term": "Witness",
+    "definition": "A person who sees an event, typically a crime or accident, take place. In legal terms, a witness may also be someone who gives testimony under oath in a court of law."
+  },
+  {
+    "term": "Writ",
+    "definition": "A formal written order issued by a body with administrative or judicial jurisdiction. In modern usage, the term is most often used in reference to court orders."
+  },
+  {
+    "term": "Zoning",
+    "definition": "The process of dividing land in a municipality into zones (e.g., residential, commercial, industrial) in which certain land uses are permitted or prohibited. Zoning laws regulate the use of land and buildings to promote orderly development."
+  },
+
+
+  {
+    "term": "A/B Testing",
+    "definition": "A method of comparing two versions of a webpage, app, or marketing email against each other to determine which one performs better. It's a way to validate that any new design or change is improving its performance."
+  },
+  {
+    "term": "ACID Compliance",
+    "definition": "A set of properties for database transactions (Atomicity, Consistency, Isolation, Durability) that guarantee data validity despite errors, power failures, and other mishaps. In the context of databases, a single logical operation on the data is called a transaction."
+  },
+  {
+    "term": "API (Application Programming Interface)",
+    "definition": "A set of rules, protocols, and tools for building software applications. An API specifies how software components should interact, allowing different systems to communicate with each other without needing to know how they are implemented."
+  },
+  {
+    "term": "Agile",
+    "definition": "A project management methodology, primarily used for software development, that is characterized by building products in short, iterative cycles. This approach emphasizes adaptive planning, early delivery, and continuous improvement."
+  },
+  {
+    "term": "Algorithm",
+    "definition": "A step-by-step procedure or set of rules to be followed in calculations or other problem-solving operations, especially by a computer. It is the foundation for how a program processes data and makes decisions."
+  },
+  {
+    "term": "Alliteration",
+    "definition": "A literary device where two or more words in a phrase or line of poetry share the same beginning consonant sound. The words may be adjacent or separated by one or more words."
+  },
+  {
+    "term": "Amortization",
+    "definition": "An accounting technique used to periodically lower the book value of a loan or an intangible asset over a set period of time. For loans, it involves spreading out payments; for intangible assets, it is similar to depreciation."
+  },
+  {
+    "term": "Anarchism",
+    "definition": "A political philosophy that advocates self-governed societies based on voluntary institutions. It often entails the belief that government (the state) is unnecessary, harmful, and undesirable."
+  },
+  {
+    "term": "Ansible",
+    "definition": "An open-source software provisioning, configuration management, and application-deployment tool. It uses a simple, human-readable language (YAML) to describe automation jobs."
+  },
+  {
+    "term": "Antagonist",
+    "definition": "A character or a group of characters which stand in opposition to the protagonist or the main character. The antagonist is often the villain of the story but can also be a force of nature or a societal norm."
+  },
+  {
+    "term": "Atom",
+    "definition": "The smallest unit of ordinary matter that forms a chemical element. Every solid, liquid, gas, and plasma is composed of neutral or ionized atoms."
+  },
+  {
+    "term": "Augmented Reality (AR)",
+    "definition": "A technology that superimposes a computer-generated image on a user's view of the real world, thus providing a composite view. Unlike virtual reality, AR enhances the existing environment rather than replacing it."
+  },
+  {
+    "term": "Authentication",
+    "definition": "The process of verifying the identity of a user or process. It confirms that a user is who they claim to be, often through passwords, biometrics, or security tokens, and is distinct from authorization (what they are allowed to do)."
+  },
+  {
+    "term": "Axiom",
+    "definition": "A statement or proposition which is regarded as being established, accepted, or self-evidently true. In mathematics, an axiom is a starting point for logical deduction and cannot be proven from other statements."
+  },
+  {
+    "term": "B2B (Business-to-Business)",
+    "definition": "A form of transaction between businesses, such as one involving a manufacturer and wholesaler, or a wholesaler and a retailer. This is in contrast to business-to-consumer (B2C) transactions."
+  },
+  {
+    "term": "B2C (Business-to-Consumer)",
+    "definition": "The process of selling products and services directly between a business and consumers who are the end-users of its products or services. Most companies that sell directly to consumers can be referred to as B2C companies."
+  },
+  {
+    "term": "Backend",
+    "definition": "The part of a computer application or program's code that allows it to operate and that cannot be accessed by a user. It includes the server, database, and application logic that powers the user-facing frontend."
+  },
+  {
+    "term": "Balance Sheet",
+    "definition": "A financial statement that reports a company's assets, liabilities, and shareholder equity at a specific point in time. It provides a snapshot of what a company owns and owes, as well as the amount invested by shareholders."
+  },
+  {
+    "term": "Bandwidth",
+    "definition": "The maximum rate of data transfer across a given path in a computer network. It measures how much data can be sent over a specific connection in a given amount of time and is often expressed in bits per second (bps)."
+  },
+  {
+    "term": "Beta Test",
+    "definition": "A trial of machinery, software, or other products, in the final stages of its development, carried out by a party other than the one that developed it. It is the last stage of testing before the product is released to the public."
+  },
+  {
+    "term": "Big Data",
+    "definition": "Extremely large and complex datasets that may be analyzed computationally to reveal patterns, trends, and associations, especially relating to human behavior. Traditional data-processing software is inadequate to deal with them."
+  },
+  {
+    "term": "Biopsy",
+    "definition": "A medical test commonly performed by a surgeon, interventional radiologist, or an interventional cardiologist involving extraction of sample cells or tissues for examination to determine the presence or extent of a disease."
+  },
+  {
+    "term": "Blockchain",
+    "definition": "A decentralized, distributed, and immutable digital ledger used to record transactions across many computers. Each 'block' in the 'chain' contains a number of transactions, making the record of transactions permanent and unalterable."
+  },
+  {
+    "term": "Bond",
+    "definition": "A fixed-income instrument that represents a loan made by an investor to a borrower (typically corporate or governmental). A bond is a debt security, under which the issuer owes the holders a debt and is obliged to pay them interest (the coupon) and to repay the principal at a later date."
+  },
+  {
+    "term": "Bootstrap",
+    "definition": "In computing, it's the process of loading the basic software that starts a computer system. In web development, Bootstrap is a popular front-end framework for designing responsive and mobile-first websites."
+  },
+  {
+    "term": "Brand Equity",
+    "definition": "A marketing term that describes a brand's value, which is determined by consumer perception of and experiences with the brand. Positive brand equity can lead to higher sales volumes and pricing power."
+  },
+  {
+    "term": "Browser Object Model (BOM)",
+    "definition": "A browser-specific convention referring to all the objects exposed by the web browser. The BOM allows JavaScript to 'talk' to the browser about matters other than the content of the page."
+  },
+  {
+    "term": "CPU (Central Processing Unit)",
+    "definition": "The primary component of a computer that performs most of the processing inside the computer. It is the 'brain' of the computer, executing instructions of a computer program."
+  },
+  {
+    "term": "Cache",
+    "definition": "A hardware or software component that stores data so that future requests for that data can be served faster. The data stored in a cache might be the result of an earlier computation or a copy of data stored elsewhere."
+  },
+  {
+    "term": "Calculus",
+    "definition": "The mathematical study of continuous change, in the same way that geometry is the study of shape and algebra is the study of generalizations of arithmetic operations. It has two major branches, differential calculus and integral calculus."
+  },
+  {
+    "term": "Capitalism",
+    "definition": "An economic system in which private individuals or businesses own capital goods. The production of goods and services is based on supply and demand in the general market rather than through central planning."
+  },
+  {
+    "term": "Catalyst",
+    "definition": "A substance that increases the rate of a chemical reaction without itself undergoing any permanent chemical change. Catalysts are crucial in many industrial chemical processes."
+  },
+  {
+    "term": "Cloud Computing",
+    "definition": "The delivery of on-demand computing services—including servers, storage, databases, networking, and software—over the Internet ('the cloud'). This allows companies to access computing resources without their own infrastructure."
+  },
+  {
+    "term": "Compiler",
+    "definition": "A special computer program that translates source code written in a high-level programming language (like C++ or Java) into a lower-level language (like machine code) that the computer's processor can execute directly."
+  },
+  {
+    "term": "Composition",
+    "definition": "In visual arts, the placement or arrangement of visual elements or 'ingredients' in a work of art, as distinct from the subject of a work. It is the organization of the elements of art according to the principles of art."
+  },
+  {
+    "term": "Concurrency",
+    "definition": "The ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in partial order, without affecting the final outcome. This allows for parallel execution of the concurrent units, which can significantly improve overall speed of the execution in multi-processor systems."
+  },
+  {
+    "term": "Containerization",
+    "definition": "A lightweight form of virtualization where an application and its dependencies are packaged together in a 'container'. This allows the application to run quickly and reliably from one computing environment to another."
+  },
+  {
+    "term": "Conversion Rate",
+    "definition": "The percentage of users who take a desired action. The archetypal example of a conversion rate is the percentage of website visitors who buy something on the site."
+  },
+  {
+    "term": "Covalent Bond",
+    "definition": "A chemical bond that involves the sharing of electron pairs between atoms. These shared pairs are known as shared pairs or bonding pairs, and the stable balance of attractive and repulsive forces between atoms when they share electrons is known as covalent bonding."
+  },
+  {
+    "term": "Cryptography",
+    "definition": "The practice and study of techniques for secure communication in the presence of third parties called adversaries. It involves creating and analyzing protocols that prevent malicious third parties from reading private messages."
+  },
+  {
+    "term": "DNS (Domain Name System)",
+    "definition": "The Internet's system for converting alphabetic domain names (like www.google.com) into numeric IP addresses (like 172.217.168.68). It acts like a phonebook for the internet."
+  },
+  {
+    "term": "DOM (Document Object Model)",
+    "definition": "A programming interface for web documents. It represents the page so that programs can change the document structure, style, and content. The DOM represents the document as nodes and objects, allowing programming languages to connect to the page."
+  },
+  {
+    "term": "Data Mining",
+    "definition": "The process of discovering patterns and other valuable information from large sets of data. It uses a mix of machine learning, statistics, and database systems to identify trends that might otherwise be missed."
+  },
+  {
+    "term": "Debugging",
+    "definition": "The process of finding and resolving defects or problems within a computer program that prevent correct operation. Debugging is a necessary part of the software development lifecycle."
+  },
+  {
+    "term": "Derivative",
+    "definition": "A financial contract whose value is derived from an underlying asset, group of assets, or benchmark. Common derivatives include futures contracts, forwards, options, and swaps."
+  },
+  {
+    "term": "DevOps",
+    "definition": "A set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality."
+  },
+  {
+    "term": "Diagnosis",
+    "definition": "The identification of the nature of an illness or other problem by examination of the symptoms. In medicine, a diagnosis is the conclusion reached by a health professional about the disease a patient is suffering from."
+  },
+  {
+    "term": "Docker",
+    "definition": "An open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly, using containerization."
+  },
+  {
+    "term": "Due Process",
+    "definition": "A legal requirement that the state must respect all legal rights that are owed to a person. It balances the power of law of the land and protects the individual person from it."
+  },
+  {
+    "term": "EBITDA",
+    "definition": "Stands for Earnings Before Interest, Taxes, Depreciation, and Amortization. It's a widely used measure of a company's financial performance and is seen as an indicator of its operational profitability."
+  },
+  {
+    "term": "ETF (Exchange-Traded Fund)",
+    "definition": "A type of security that involves a collection of securities—such as stocks—that often tracks an underlying index, although they can invest in any number of industry sectors or use various strategies."
+  },
+  {
+    "term": "Ecosystem",
+    "definition": "A biological community of interacting organisms and their physical environment. Ecosystems can be of any size, from a small tidal pool to the entire biosphere."
+  },
+  {
+    "term": "Edge Computing",
+    "definition": "A distributed computing paradigm that brings computation and data storage closer to the sources of data. This is done to improve response times and save bandwidth, rather than sending data to a centralized cloud for processing."
+  },
+  {
+    "term": "Encapsulation",
+    "definition": "In object-oriented programming, encapsulation refers to the bundling of data with the methods that operate on that data, or the restricting of direct access to some of an object's components. It is one of the four fundamental OOP concepts."
+  },
+  {
+    "term": "Encryption",
+    "definition": "The process of converting information or data into a code, especially to prevent unauthorized access. The reverse process, decryption, is required to make the information readable again."
+  },
+  {
+    "term": "Epistemology",
+    "definition": "The branch of philosophy concerned with the theory of knowledge. It seeks to answer questions about the nature of knowledge, how it is acquired, and the extent of its scope and limits."
+  },
+  {
+    "term": "Equity",
+    "definition": "In finance, equity represents the ownership interest in a company. It is calculated as the company's total assets minus its total liabilities and is one of the most common ways to represent a shareholder's stake."
+  },
+  {
+    "term": "Ergonomics",
+    "definition": "The science of designing and arranging things people use so that the people and things interact most efficiently and safely. It is often applied to the design of workplaces and equipment to minimize operator fatigue."
+  },
+  {
+    "term": "Ethics",
+    "definition": "The branch of philosophy that involves systematizing, defending, and recommending concepts of right and wrong conduct. It is often referred to as moral philosophy."
+  },
+  {
+    "term": "Evolution",
+    "definition": "The process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth. It is driven by natural selection."
+  },
+  {
+    "term": "Existentialism",
+    "definition": "A form of philosophical inquiry that explores the problem of human existence and centers on the lived experience of the thinking, feeling, acting individual. It emphasizes individual freedom, responsibility, and the subjective nature of human experience."
+  },
+  {
+    "term": "Firewall",
+    "definition": "A network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall establishes a barrier between a trusted internal network and an untrusted external network."
+  },
+  {
+    "term": "Framework",
+    "definition": "In computer programming, a software framework is a pre-written, standardized set of code that provides a foundation for developing applications. It offers a structure that developers can build upon, saving time and reducing errors."
+  },
+  {
+    "term": "Freemium",
+    "definition": "A business model where a company offers basic features of a product or service at no cost, and charges a premium for supplemental or advanced features. This model is very common for software and internet services."
+  },
+  {
+    "term": "Frontend",
+    "definition": "The part of a website or application that the user interacts with directly. It's also known as the 'client-side' and includes everything that users experience: text, colors, images, buttons, and navigation menus."
+  },
+  {
+    "term": "Functional Programming",
+    "definition": "A programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program."
+  },
+  {
+    "term": "GAAP (Generally Accepted Accounting Principles)",
+    "definition": "A common set of accounting principles, standards, and procedures issued by the Financial Accounting Standards Board (FASB). Public companies in the U.S. must follow GAAP when their accountants compile their financial statements."
+  },
+  {
+    "term": "GDP (Gross Domestic Product)",
+    "definition": "The total monetary or market value of all the finished goods and services produced within a country's borders in a specific time period. As a broad measure of overall domestic production, it functions as a comprehensive scorecard of a given country’s economic health."
+  },
+  {
+    "term": "GPU (Graphics Processing Unit)",
+    "definition": "A specialized electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to a display device. GPUs are used in embedded systems, mobile phones, personal computers, workstations, and game consoles."
+  },
+  {
+    "term": "GUI (Graphical User Interface)",
+    "definition": "A type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators, as opposed to text-based interfaces. Common GUIs use windows, icons, menus, and a pointer."
+  },
+  {
+    "term": "Generative AI",
+    "definition": "A class of artificial intelligence models that can generate new content, such as text, images, or music, based on the patterns and structures learned from training data. Models like GPT and DALL-E are prominent examples."
+  },
+  {
+    "term": "Git",
+    "definition": "A distributed version control system used for tracking changes in source code during software development. It allows multiple developers to collaborate on a project, managing different versions and branches of the code."
+  },
+  {
+    "term": "Globalization",
+    "definition": "The process by which businesses or other organizations develop international influence or start operating on an international scale. It describes the growing interdependence of the world's economies, cultures, and populations."
+  },
+  {
+    "term": "Golden Ratio",
+    "definition": "A special number approximately equal to 1.618 that appears many times in geometry, art, architecture and other areas. It is often associated with aesthetic harmony and proportion."
+  },
+  {
+    "term": "GraphQL",
+    "definition": "An open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data. It gives clients the power to ask for exactly what they need and nothing more, making it easier to evolve APIs over time."
+  },
+  {
+    "term": "HTML (HyperText Markup Language)",
+    "definition": "The standard markup language for documents designed to be displayed in a web browser. It forms the basic structure of a webpage and is often assisted by CSS and scripting languages like JavaScript."
+  },
+  {
+    "term": "Habeas Corpus",
+    "definition": "A legal recourse in which a person can report an unlawful detention or imprisonment to a court and request that the court order the custodian of the person, usually a prison official, to bring the prisoner to court to determine if the detention is lawful."
+  },
+  {
+    "term": "Hadoop",
+    "definition": "An open-source software framework for storing and processing large datasets in a distributed computing environment. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage."
+  },
+  {
+    "term": "Hedge Fund",
+    "definition": "A pooled investment fund that trades in relatively liquid assets and is able to make extensive use of more complex trading, portfolio-construction and risk management techniques to improve performance, such as short selling, leverage, and derivatives."
+  },
+  {
+    "term": "Heuristic",
+    "definition": "A practical approach to problem-solving that is not guaranteed to be optimal or perfect, but is sufficient for the immediate goals. It can be considered a mental shortcut to make decisions or judgments quickly."
+  },
+  {
+    "term": "Homeostasis",
+    "definition": "The tendency of a biological system to maintain a stable, relatively constant internal environment. It is the body's ability to regulate variables such as temperature and chemical balance to remain in a state of equilibrium."
+  },
+  {
+    "term": "Hue",
+    "definition": "One of the main properties of a color, defined as 'the degree to which a stimulus can be described as similar to or different from stimuli that are described as red, green, blue, and yellow'. It refers to the pure spectrum colors."
+  },
+  {
+    "term": "Hypothesis",
+    "definition": "A proposed explanation for a phenomenon made as a starting point for further investigation. A scientific hypothesis must be testable and falsifiable, meaning that it can be proven wrong."
+  },
+  {
+    "term": "IDE (Integrated Development Environment)",
+    "definition": "A software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools, and a debugger."
+  },
+  {
+    "term": "IoT (Internet of Things)",
+    "definition": "A system of interrelated computing devices, mechanical and digital machines, objects, or people that are provided with unique identifiers and the ability to transfer data over a network without requiring human-to-human or human-to-computer interaction."
+  },
+  {
+    "term": "Income Statement",
+    "definition": "A financial statement that shows you the company's income and expenditures. It also shows whether a company is making profit or loss for a given period."
+  },
+  {
+    "term": "Indexing",
+    "definition": "In the context of databases, an index is a data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage space to maintain the index data structure."
+  },
+  {
+    "term": "Inflation",
+    "definition": "The rate at which the general level of prices for goods and services is rising, and subsequently, purchasing power is falling. Central banks attempt to limit inflation to keep the economy running smoothly."
+  },
+  {
+    "term": "Infrastructure as Code (IaC)",
+    "definition": "The managing and provisioning of infrastructure through code instead of through manual processes. With IaC, configuration files are created that contain your infrastructure specifications, making it easier to edit and distribute configurations."
+  },
+  {
+    "term": "Inheritance",
+    "definition": "In object-oriented programming, inheritance is the mechanism of basing an object or class upon another object (prototype-based inheritance) or class (class-based inheritance), retaining similar implementation. It is one of the four fundamental OOP concepts."
+  },
+  {
+    "term": "Intellectual Property (IP)",
+    "definition": "A category of property that includes intangible creations of the human intellect. The most well-known types are copyrights, patents, and trademarks."
+  },
+  {
+    "term": "Ion",
+    "definition": "An atom or molecule with a net electric charge due to the loss or gain of one or more electrons. Ions are fundamental particles in chemistry and physics."
+  },
+  {
+    "term": "JavaScript",
+    "definition": "A high-level, just-in-time compiled, and multi-paradigm programming language. It is one of the core technologies of the World Wide Web, alongside HTML and CSS, enabling interactive web pages."
+  },
+  {
+    "term": "Jargon",
+    "definition": "Special words or expressions that are used by a particular profession or group and are difficult for others to understand. While it can facilitate communication within a group, it can also create barriers for outsiders."
+  },
+  {
+    "term": "Kerning",
+    "definition": "In typography, kerning is the process of adjusting the spacing between characters in a proportional font, usually to achieve a visually pleasing result. It is a critical part of making text readable and aesthetically appealing."
+  },
+  {
+    "term": "Kubernetes",
+    "definition": "An open-source container orchestration system for automating software deployment, scaling, and management. It groups containers that make up an application into logical units for easy management and discovery."
+  },
+  {
+    "term": "LLM (Large Language Model)",
+    "definition": "A type of artificial intelligence model trained on vast amounts of text data to understand and generate human-like language. LLMs are the foundation for applications like chatbots, text summarization, and translation services."
+  },
+  {
+    "term": "Lambda Function",
+    "definition": "An anonymous function (a function without a name) that can be defined inline. They are a feature of many programming languages, such as Python and Java, and are useful for short, simple operations."
+  },
+  {
+    "term": "Latency",
+    "definition": "In a network, latency is the delay before a transfer of data begins following an instruction for its transfer. It represents the total time it takes for a data packet to travel from one node to another."
+  },
+  {
+    "term": "Lead Generation",
+    "definition": "The business process of stimulating and capturing interest in a product or service for the purpose of developing a sales pipeline. It is a critical part of the sales process for many companies."
+  },
+  {
+    "term": "Lean Manufacturing",
+    "definition": "A production method aimed primarily at reducing times within the production system as well as response times from suppliers and to customers. It focuses on eliminating waste to maximize value for the customer."
+  },
+  {
+    "term": "Leverage",
+    "definition": "In finance, leverage is the use of borrowed capital to invest in an asset. The goal is to multiply the potential return from a project, but it also multiplies the risk of loss if the investment does not perform as expected."
+  },
+  {
+    "term": "Linux",
+    "definition": "A family of open-source Unix-like operating systems based on the Linux kernel. It is known for its stability and security, and it powers a vast majority of the world's servers, supercomputers, and many mobile devices."
+  },
+  {
+    "term": "Liquidity",
+    "definition": "The ease with which an asset, or security, can be converted into ready cash without affecting its market price. Cash is the most liquid asset, while tangible items like real estate or fine art are relatively illiquid."
+  },
+  {
+    "term": "Load Balancer",
+    "definition": "A device or software that acts as a 'traffic cop' sitting in front of your servers and routing client requests across all servers capable of fulfilling those requests in a manner that maximizes speed and capacity utilization and ensures that no one server is overworked."
+  },
+  {
+    "term": "Macroeconomics",
+    "definition": "The branch of economics that deals with the performance, structure, behavior, and decision-making of an economy as a whole. This includes regional, national, and global economies."
+  },
+  {
+    "term": "Machine Learning",
+    "definition": "A subset of artificial intelligence (AI) that focuses on building systems that can learn from data, identify patterns, and make decisions with minimal human intervention. It enables computers to improve their performance on a task over time."
+  },
+  {
+    "term": "Malware",
+    "definition": "Short for 'malicious software,' it is any software intentionally designed to cause damage to a computer, server, client, or computer network. Common types include viruses, worms, ransomware, and spyware."
+  },
+  {
+    "term": "Man-in-the-Middle Attack (MITM)",
+    "definition": "A cyberattack where the attacker secretly relays and possibly alters the communications between two parties who believe they are directly communicating with each other. The attacker intercepts all messages passing between the two victims and injects new ones."
+  },
+  {
+    "term": "Market Segmentation",
+    "definition": "The process of dividing a broad consumer or business market, normally consisting of existing and potential customers, into sub-groups of consumers based on some type of shared characteristics."
+  },
+  {
+    "term": "Meiosis",
+    "definition": "A special type of cell division of germ cells in sexually-reproducing organisms used to produce the gametes, such as sperm or egg cells. It involves two rounds of division that ultimately result in four cells with only one copy of each chromosome."
+  },
+  {
+    "term": "Metaphor",
+    "definition": "A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable. It is a way of creating a comparison without using 'like' or 'as'."
+  },
+  {
+    "term": "Metaphysics",
+    "definition": "The branch of philosophy that examines the fundamental nature of reality, including the relationship between mind and matter, between substance and attribute, and between potentiality and actuality."
+  },
+  {
+    "term": "Microeconomics",
+    "definition": "The branch of economics that studies the behavior of individuals and firms in making decisions regarding the allocation of scarce resources and the interactions among these individuals and firms."
+  },
+  {
+    "term": "Microservices",
+    "definition": "An architectural style that structures an application as a collection of small, autonomous services modeled around a business domain. Each service is self-contained and can be deployed, scaled, and updated independently."
+  },
+  {
+    "term": "Mitosis",
+    "definition": "A process of cell division that results in two daughter cells each having the same number and kind of chromosomes as the parent nucleus, typical of ordinary tissue growth. It is essential for growth and repair."
+  },
+  {
+    "term": "Monetization",
+    "definition": "The process of converting something that previously did not generate revenue into a source of income. This can refer to making money from a website, an app, or any other asset."
+  },
+  {
+    "term": "Mutual Fund",
+    "definition": "A type of financial vehicle made up of a pool of money collected from many investors to invest in securities like stocks, bonds, money market instruments, and other assets. Mutual funds are operated by professional money managers."
+  },
+  {
+    "term": "NLP (Natural Language Processing)",
+    "definition": "A subfield of linguistics, computer science, and artificial intelligence concerned with the interactions between computers and human language, in particular how to program computers to process and analyze large amounts of natural language data."
+  },
+  {
+    "term": "Networking",
+    "definition": "In computing, it refers to the practice of connecting two or more computing devices together for the purpose of sharing data. In business, it is the process of interacting with others to exchange information and develop contacts."
+  },
+  {
+    "term": "Neural Network",
+    "definition": "A series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. It is a core component of deep learning in AI."
+  },
+  {
+    "term": "Node",
+    "definition": "A basic unit of a data structure, such as a linked list or tree. In a computer network, a node can be any device connected to the network that is capable of sending, receiving, or forwarding information."
+  },
+  {
+    "term": "NoSQL",
+    "definition": "A database that provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases (like SQL). They are often used in big data and real-time web applications."
+  },
+  {
+    "term": "Normalization",
+    "definition": "In database design, the process of organizing the columns (attributes) and tables (relations) of a relational database to minimize data redundancy. It involves dividing larger tables into smaller, well-structured tables and defining relationships between them."
+  },
+  {
+    "term": "OSI Model",
+    "definition": "The Open Systems Interconnection model is a conceptual framework used to describe the functions of a networking system. It characterizes computing functions into a universal set of rules and requirements in order to support interoperability between different products and software."
+  },
+  {
+    "term": "Object-Oriented Programming (OOP)",
+    "definition": "A programming paradigm based on the concept of 'objects', which can contain data (attributes) and code (methods). Languages like Java, Python, and C++ are popular OOP languages."
+  },
+  {
+    "term": "Open Source",
+    "definition": "A term for software for which the original source code is made freely available and may be redistributed and modified. It promotes collaborative participation, open exchange, and community-oriented development."
+  },
+  {
+    "term": "Opportunity Cost",
+    "definition": "The potential benefits an individual, investor, or business misses out on when choosing one alternative over another. Since opportunity costs are unseen, they can be easily overlooked."
+  },
+  {
+    "term": "Option",
+    "definition": "A financial derivative that represents a contract sold by one party (the option writer) to another party (the option holder). The contract offers the buyer the right, but not the obligation, to buy (call) or sell (put) a security or other financial asset at an agreed-upon price (the strike price) during a certain period of time or on a specific date."
+  },
+  {
+    "term": "Paradigm",
+    "definition": "A typical example or pattern of something; a model. In science and philosophy, a paradigm is a distinct set of concepts or thought patterns, including theories, research methods, postulates, and standards for what constitutes legitimate contributions to a field."
+  },
+  {
+    "term": "Parallelism",
+    "definition": "In computing, a type of computation in which many calculations or the execution of processes are carried out simultaneously. Large problems can often be divided into smaller ones, which can then be solved at the same time."
+  },
+  {
+    "term": "Peer-to-Peer (P2P)",
+    "definition": "A distributed network architecture in which participants make a portion of their resources directly available to other network participants, without the need for central coordination instances."
+  },
+  {
+    "term": "Penetration Testing",
+    "definition": "An authorized simulated cyberattack on a computer system, performed to evaluate the security of the system; this is not to be confused with a vulnerability assessment. The test is performed to identify both weaknesses (also referred to as vulnerabilities), including the potential for unauthorized parties to gain access to the system's features and data, as well as strengths."
+  },
+  {
+    "term": "Phishing",
+    "definition": "A type of social engineering attack often used to steal user data, including login credentials and credit card numbers. It occurs when an attacker, masquerading as a trusted entity, dupes a victim into opening an email, instant message, or text message."
+  },
+  {
+    "term": "Photosynthesis",
+    "definition": "The process used by plants, algae and certain bacteria to harness energy from sunlight and turn it into chemical energy. This process is fundamental to life on Earth."
+  },
+  {
+    "term": "Placebo",
+    "definition": "A substance or treatment which is designed to have no therapeutic value. It is used in clinical trials to test the effectiveness of treatments and is often referred to as a 'sugar pill'."
+  },
+  {
+    "term": "Polymorphism",
+    "definition": "In programming, a concept that allows objects of different classes to be treated as objects of a common super class. It is the ability to present the same interface for differing underlying forms (data types). It is one of the four fundamental OOP concepts."
+  },
+  {
+    "term": "Probability",
+    "definition": "The branch of mathematics concerning numerical descriptions of how likely an event is to occur, or how likely it is that a proposition is true. The probability of an event is a number between 0 and 1, where, roughly speaking, 0 indicates impossibility and 1 indicates certainty."
+  },
+  {
+    "term": "Prognosis",
+    "definition": "A medical term for predicting the likely or expected development of a disease, including whether the signs and symptoms will improve or worsen (and how quickly) or remain stable over time; expectations of quality of life, such as the ability to carry out daily activities; and the likelihood of survival."
+  },
+  {
+    "term": "Protagonist",
+    "definition": "The main character in a story, such as a literary work or drama. The protagonist is at the center of the story, makes the key decisions, and experiences the consequences of those decisions."
+  },
+  {
+    "term": "Protocol",
+    "definition": "A set of rules or procedures for transmitting data between electronic devices, such as computers. For computers to exchange information, there must be a preexisting agreement on how the information will be structured and how each side will send and receive it."
+  },
+  {
+    "term": "Quantum Computing",
+    "definition": "An area of computing focused on developing computer technology based on the principles of quantum theory. Quantum computers can solve certain complex problems much faster than any classical computer."
+  },
+  {
+    "term": "Quantum Mechanics",
+    "definition": "A fundamental theory in physics that provides a description of the physical properties of nature at the scale of atoms and subatomic particles. It is the foundation of all quantum physics including quantum chemistry, quantum field theory, quantum technology, and quantum information science."
+  },
+  {
+    "term": "Query",
+    "definition": "A request for data or information from a database table or combination of tables. A query can be a request for specific data results or for performing actions on the data, such as updating or deleting."
+  },
+  {
+    "term": "RAM (Random Access Memory)",
+    "definition": "A form of computer memory that can be read and changed in any order, typically used to store working data and machine code. A random-access memory device allows data items to be read or written in almost the same amount of time irrespective of the physical location of data inside the memory."
+  },
+  {
+    "term": "ROI (Return on Investment)",
+    "definition": "A performance measure used to evaluate the efficiency or profitability of an investment. ROI measures the amount of return on a particular investment, relative to the investment's cost."
+  },
+  {
+    "term": "Ransomware",
+    "definition": "A type of malicious software designed to block access to a computer system until a sum of money is paid. It encrypts a victim's files, making them inaccessible, and demands a ransom payment to restore access."
+  },
+  {
+    "term": "Recursion",
+    "definition": "In computer science, recursion is a method of solving a problem where the solution depends on solutions to smaller instances of the same problem. A function that calls itself is known as a recursive function."
+  },
+  {
+    "term": "Reinforcement Learning",
+    "definition": "An area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. It is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning."
+  },
+  {
+    "term": "Relativity",
+    "definition": "A theory, formulated essentially by Albert Einstein, that all motion must be defined relative to a frame of reference and that space and time are relative, rather than absolute concepts. It consists of two principal parts: special relativity and general relativity."
+  },
+  {
+    "term": "Responsive Design",
+    "definition": "An approach to web design that makes web pages render well on a variety of devices and window or screen sizes. Content, design, and performance are necessary across all devices to ensure usability and satisfaction."
+  },
+  {
+    "term": "Router",
+    "definition": "A networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. A data packet is typically forwarded from one router to another router through the networks that constitute an inter-network until it reaches its destination node."
+  },
+  {
+    "term": "SQL (Structured Query Language)",
+    "definition": "A domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS)."
+  },
+  {
+    "term": "SSD (Solid-State Drive)",
+    "definition": "A solid-state storage device that uses integrated circuit assemblies to store data persistently, typically using flash memory. It functions as secondary storage in the hierarchy of computer storage, and is a faster alternative to traditional hard disk drives (HDDs)."
+  },
+  {
+    "term": "SaaS (Software as a Service)",
+    "definition": "A software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is also known as 'on-demand software' and is accessed by users using a web browser."
+  },
+  {
+    "term": "Saturation",
+    "definition": "In color theory, saturation is the intensity or purity of a color. A highly saturated color is vivid and bright, while a desaturated color is more muted and greyish."
+  },
+  {
+    "term": "Scalability",
+    "definition": "The property of a system to handle a growing amount of work by adding resources to the system. In an economic context, a scalable company is one that can maintain or improve profit margins while sales volume increases."
+  },
+  {
+    "term": "Serverless Computing",
+    "definition": "A cloud computing execution model in which the cloud provider runs the server and dynamically manages the allocation of machine resources. Pricing is based on the actual amount of resources consumed by an application."
+  },
+  {
+    "term": "Sharding",
+    "definition": "A type of database partitioning that separates very large databases into smaller, faster, more easily managed parts called data shards. It is a form of horizontal scaling."
+  },
+  {
+    "term": "Simile",
+    "definition": "A figure of speech involving the comparison of one thing with another thing of a different kind, used to make a description more emphatic or vivid (e.g., as brave as a lion). It uses 'like' or 'as' to make the comparison."
+  },
+  {
+    "term": "Stoicism",
+    "definition": "An ancient Greek school of philosophy which teaches the development of self-control and fortitude as a means of overcoming destructive emotions. It holds that becoming a clear and unbiased thinker allows one to understand the universal reason (logos)."
+  },
+  {
+    "term": "Supervised Learning",
+    "definition": "A machine learning task of learning a function that maps an input to an output based on example input-output pairs. It infers a function from labeled training data consisting of a set of training examples."
+  },
+  {
+    "term": "Supply and Demand",
+    "definition": "An economic model of price determination in a market. It postulates that, holding all else equal, in a competitive market, the unit price for a particular good, or other traded item such as labor or liquid financial assets, will vary until it settles at a point where the quantity demanded will equal the quantity supplied."
+  },
+  {
+    "term": "Synergy",
+    "definition": "The concept that the value and performance of two companies combined will be greater than the sum of the separate individual parts. It is a term most commonly used in the context of mergers and acquisitions."
+  },
+  {
+    "term": "Symptom",
+    "definition": "A physical or mental feature which is regarded as indicating a condition of disease, particularly such a feature that is apparent to the patient. It is a subjective experience that cannot be identified by anyone else."
+  },
+  {
+    "term": "TCP/IP",
+    "definition": "Stands for Transmission Control Protocol/Internet Protocol and is a suite of communication protocols used to interconnect network devices on the internet. It specifies how data is exchanged over the internet by providing end-to-end communications."
+  },
+  {
+    "term": "Terraform",
+    "definition": "An open-source infrastructure as code software tool. It enables users to define and provision a data center infrastructure using a high-level configuration language."
+  },
+  {
+    "term": "Theorem",
+    "definition": "A statement that has been proven on the basis of previously established statements, such as other theorems, and generally accepted statements, such as axioms. The proof of a mathematical theorem is a logical argument for the theorem statement."
+  },
+  {
+    "term": "Thermodynamics",
+    "definition": "The branch of physics that deals with heat, work, and temperature, and their relation to energy, radiation, and physical properties of matter. The behavior of these quantities is governed by the four laws of thermodynamics."
+  },
+  {
+    "term": "Thesis",
+    "definition": "A statement or theory that is put forward as a premise to be maintained or proved. In academia, it's a long essay or dissertation involving personal research, written by a candidate for a university degree."
+  },
+  {
+    "term": "Tokenization",
+    "definition": "The process of replacing sensitive data with unique identification symbols that retain all the essential information about the data without compromising its security. It is commonly used in payment processing and data security."
+  },
+  {
+    "term": "Tort",
+    "definition": "An act or omission that gives rise to injury or harm to another and amounts to a civil wrong for which courts impose liability. In the context of torts, 'injury' describes the invasion of any legal right, whereas 'harm' describes a loss or detriment in fact that an individual suffers."
+  },
+  {
+    "term": "Typography",
+    "definition": "The art and technique of arranging type to make written language legible, readable and appealing when displayed. The arrangement of type involves selecting typefaces, point sizes, line lengths, line-spacing (leading), and letter-spacing (tracking)."
+  },
+  {
+    "term": "UI (User Interface)",
+    "definition": "The point of human-computer interaction and communication in a device. This can include display screens, keyboards, a mouse, and the appearance of a desktop; it is how a user interacts with an application or a website."
+  },
+  {
+    "term": "UX (User Experience)",
+    "definition": "The overall experience of a person using a product such as a website or computer application, especially in terms of how easy or pleasing it is to use. It encompasses all aspects of the end-user's interaction with the company, its services, and its products."
+  },
+  {
+    "term": "Unicorn",
+    "definition": "In the business and venture capital world, a unicorn is a privately held startup company with a value of over $1 billion. The term was coined to emphasize the rarity of such successful ventures."
+  },
+  {
+    "term": "Unsupervised Learning",
+    "definition": "A type of machine learning that looks for previously undetected patterns in a data set with no pre-existing labels and with a minimum of human supervision. In contrast to supervised learning that usually makes use of human-labeled data."
+  },
+  {
+    "term": "VPN (Virtual Private Network)",
+    "definition": "A technology that creates a safe and encrypted connection over a less secure network, such as the public internet. A VPN can be used to access region-restricted websites, shield your browsing activity from prying eyes on public Wi-Fi, and more."
+  },
+  {
+    "term": "Value",
+    "definition": "In art and design, value refers to the lightness or darkness of a color. It is a key element in creating depth, contrast, and visual interest in a piece of art."
+  },
+  {
+    "term": "Venture Capital",
+    "definition": "A form of private equity financing that is provided by venture capital firms or funds to startups, early-stage, and emerging companies that have been deemed to have high growth potential or which have demonstrated high growth."
+  },
+  {
+    "term": "Virtual Machine (VM)",
+    "definition": "A software-based emulation of a physical computer. It runs its own operating system and behaves like a separate computer, allowing multiple OS environments to run on a single physical machine."
+  },
+  {
+    "term": "Virtual Reality (VR)",
+    "definition": "A simulated experience that can be similar to or completely different from the real world. Applications of virtual reality include entertainment, education and business, requiring special electronic equipment, such as a headset."
+  },
+  {
+    "term": "Volatility",
+    "definition": "In finance, volatility is the degree of variation of a trading price series over time, usually measured by the standard deviation of logarithmic returns. It represents the degree of risk or uncertainty associated with the size of changes in a security's value."
+  },
+  {
+    "term": "Waterfall Model",
+    "definition": "A classical, sequential model of software development in which progress is seen as flowing steadily downwards (like a waterfall) through the phases of conception, initiation, analysis, design, construction, testing, deployment and maintenance."
+  },
+  {
+    "term": "Webhook",
+    "definition": "An automated message sent from apps when something happens. They have a message (or payload) and are sent to a unique URL—a webhook URL. A webhook is essentially a way for an app to provide other applications with real-time information."
+  },
+  {
+    "term": "WebSocket",
+    "definition": "A computer communications protocol, providing full-duplex communication channels over a single TCP connection. It is located at layer 7 in the OSI model and is designed to be implemented in web browsers and web servers."
+  },
+  {
+    "term": "White Hat",
+    "definition": "An ethical computer hacker, or a computer security expert, who specializes in penetration testing and in other testing methodologies to ensure the security of an organization's information systems. They hack for good, not malicious purposes."
+  },
+  {
+    "term": "XML (eXtensible Markup Language)",
+    "definition": "A markup language and file format for storing, transmitting, and reconstructing arbitrary data. It defines a set of rules for encoding documents in a format that is both human-readable and machine-readable."
+  },
+  {
+    "term": "YAML (YAML Ain't Markup Language)",
+    "definition": "A human-readable data-serialization language. It is commonly used for configuration files and in applications where data is being stored or transmitted. YAML is often seen as a more readable alternative to JSON."
+  },
+  {
+    "term": "Yield",
+    "definition": "In finance, yield refers to the earnings generated and realized on an investment over a particular period of time. It's expressed as a percentage based on the invested amount, current market value, or face value of the security."
+  },
+  {
+    "term": "Zeitgeist",
+    "definition": "The defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time. It is the dominant set of ideals and beliefs that motivate the actions of the members of a society in a particular period."
+  },
+  {
+    "term": "Zero-Day Exploit",
+    "definition": "A cyber attack that occurs on the same day a weakness is discovered in software. At that point, it's exploited before a fix becomes available from its creator, leaving systems vulnerable until a patch is released."
+  },
+  {
+    "term": "Zero Trust",
+    "definition": "A security model based on the principle of maintaining strict access controls and not trusting anyone by default, even those already inside the network perimeter. It requires verification from everyone trying to gain access to resources on the network."
+  }
+]

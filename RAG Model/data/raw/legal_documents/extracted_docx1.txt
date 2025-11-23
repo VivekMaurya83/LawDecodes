@@ -1,0 +1,24 @@
+--- Extracted Text ---
+
+--- Extracted Text ---
+INNOVACORE DYNAMICS & QUANTUM LEAP VENTURES - MUTUAL NON-DISCLOSURE AGREEMENT
+​Parties and Purpose
+This Mutual Non-Disclosure Agreement ("Agreement") is entered into between InnovaCore Dynamics ("Party A") and Quantum Leap Ventures ("Party B"), collectively referred to as the "Parties." The Parties intend to engage in discussions concerning a potential business relationship ("Permitted Purpose") and, in connection therewith, may disclose certain Confidential Information to each other. This Agreement is intended to protect such information from unauthorized disclosure or other
+2. Definition of Confidential Information
+"Confidential Information" shall mean all non-public information, whether oral or written, disclosed by one party (the "Disclosing Party") to the other (the "Receiving Party"). This includes, but is not limited to, trade secrets, business plans, financial data, customer lists, product designs, marketing strategies, source code, and any other information designated as "Confidential." Information shall be considered Confidential regardless of whether it was disclosed before or after the date of this Agreement.
+​3. Obligations of Receiving Party
+The Receiving Party shall:
+(a) Hold all Confidential Information in strict confidence and take all reasonable precautions to protect its confidentiality, using at least the same degree of care it uses to protect its own confidential information of a similar nature, but no less than a reasonable degree of care.
+(b) Not disclose any Confidential Information to any third party without the prior written consent of the Disclosing Party.
+(c) Use the Confidential Information solely for the Permitted Purpose and for no other purpose whatsoever.
+(d) Limit the dissemination of Confidential Information to its employees, agents, or contractors ("Representatives") on a "need-to-know" basis for the Permitted Purpose, provided that such Representatives are bound by confidentiality obligations at least as restrictive as those contained herein.
+​4. Exclusions
+The obligations under this Agreement shall not apply to information that the Receiving Party can demonstrate:
+(a) was publicly known or made generally available prior to the time of disclosure by the Disclosing Party;
+(b) becomes publicly known or made generally available after disclosure through no wrongful act of the Receiving Party;
+(c) was in the rightful possession of the Receiving Party, without confidentiality restrictions, prior to the time of disclosure; or
+(d) is required to be disclosed by law, regulation, or court order, provided that the Receiving Party gives the Disclosing Party prompt written notice of such requirement to enable the Disclosing Party to seek a protective order.
+​5. Term and Return of Information
+This Agreement shall govern all disclosures made between the Parties for a period of two (2) years from the effective date. The obligation to protect Confidential Information shall survive the termination of this Agreement and shall continue for a period of five (5) years thereafter. Upon the written request of the Disclosing Party, the Receiving Party shall promptly return or destroy all documents and materials (and all copies thereof) containing the Disclosing Party's Confidential Information.
+​6. Remedies for Breach
+The Parties agree that any breach of this Agreement may cause irreparable harm to the Disclosing Party for which monetary damages would be an inadequate remedy. Accordingly, the Disclosing Party shall be entitled to seek injunctive relief to prevent or restrain any such breach, in addition to any other legal remedies available.

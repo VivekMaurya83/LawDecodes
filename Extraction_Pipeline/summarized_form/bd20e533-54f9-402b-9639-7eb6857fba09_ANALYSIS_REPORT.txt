@@ -1,0 +1,41 @@
+## Overall Summary
+
+Vinayak Mishra, Kalyan, and Vedant Mallya have a principal place of business at Parsik Colony, Kalwa (Thane-Nickname for them). The agreement is made and signed as of this 31 Oct 2025.
+Clients must build a five-page responsive corporate website using HTML, CSS, and JavaScript, ensuring cross-browser compatibility with Chrome, Firefox, Safari and Safari. Use the Figma design mockups to create the client's own content management system to manage your blog content. Create an email address that sends an automated confirmation response to the website. Follow the template to ensure that the site is running smoothly.
+This agreement starts on the date first written above and will continue until the Services are completed, or until terminated by either party after thirty (30) days written notice.
+Client agrees to pay the contractor 500 Dollars ($500) upon satisfactory completion of the Services. No other fees and/or expenses will be paid to the Contractor, unless such fees or expenses have been approved by the Client in advance. The Contractor is solely responsible for any and all taxes, Social Security contributions, disability insurance, unemployment
+The Contractor agrees that they will not share any of the information or use them in any way, either during the term of this Agreement or at any time thereafter, unless they have access to them.
+The Contractor is an independent contractor and not an employee, agent, joint venturer, or partner of the Client. The contractor cannot be entitled to any of its benefits.
+Vedant Mallya, Vinayak Mishra CONTRACTOR | ContraCT_PARTY: CLIENT, ConTRACTTOR. This agreement must be governed by and construed in accordance with the laws of the State of [State]. The parties must follow any choice of law
+
+---
+
+## Section-by-Section Breakdown
+
+Introduction/Preamble
+
+Vinayak Mishra, Kalyan, and Vedant Mallya have a principal place of business at Parsik Colony, Kalwa (Thane-Nickname for them). The agreement is made and signed as of this 31 Oct 2025.
+
+1. Services.
+
+Clients must build a five-page responsive corporate website using HTML, CSS, and JavaScript, ensuring cross-browser compatibility with Chrome, Firefox, Safari and Safari. Use the Figma design mockups to create the client's own content management system to manage your blog content. Create an email address that sends an automated confirmation response to the website. Follow the template to ensure that the site is running smoothly.
+
+2. Term.
+
+This agreement starts on the date first written above and will continue until the Services are completed, or until terminated by either party after thirty (30) days written notice.
+
+3. Compensation.
+
+Client agrees to pay the contractor 500 Dollars ($500) upon satisfactory completion of the Services. No other fees and/or expenses will be paid to the Contractor, unless such fees or expenses have been approved by the Client in advance. The Contractor is solely responsible for any and all taxes, Social Security contributions, disability insurance, unemployment
+
+4. Confidentiality.
+
+The Contractor agrees that they will not share any of the information or use them in any way, either during the term of this Agreement or at any time thereafter, unless they have access to them.
+
+5. Relationship of the Parties.
+
+The Contractor is an independent contractor and not an employee, agent, joint venturer, or partner of the Client. The contractor cannot be entitled to any of its benefits.
+
+6. Governing Law.
+
+Vedant Mallya, Vinayak Mishra CONTRACTOR | ContraCT_PARTY: CLIENT, ConTRACTTOR. This agreement must be governed by and construed in accordance with the laws of the State of [State]. The parties must follow any choice of law

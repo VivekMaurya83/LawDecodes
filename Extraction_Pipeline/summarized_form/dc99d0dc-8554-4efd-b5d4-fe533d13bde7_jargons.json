@@ -1,0 +1,64 @@
+{
+  "terms": [
+    {
+      "term": "Confidential and Proprietary Information",
+      "definition": "Secret business data or knowledge that provides a competitive edge and must be protected from unauthorized disclosure.",
+      "source": "gemini"
+    },
+    {
+      "term": "Conflict of Interest",
+      "definition": "A situation where a person's personal interests or relationships could unfairly influence their professional judgment or actions.",
+      "source": "gemini"
+    },
+    {
+      "term": "Disciplinary Action",
+      "definition": "Formal steps taken by an employer to address an employee's misconduct, poor performance, or violation of company policy.",
+      "source": "gemini"
+    },
+    {
+      "term": "condition of employment",
+      "definition": "A requirement that must be met or maintained for an individual to be hired or to continue working for an organization.",
+      "source": "gemini"
+    },
+    {
+      "term": "disciplinary measures",
+      "definition": "Steps taken to correct or punish an employee or member for misconduct or rule violations.",
+      "source": "gemini"
+    },
+    {
+      "term": "infraction",
+      "definition": "A minor violation or breach of a rule, law, or agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "legal action",
+      "definition": "The formal process of bringing a lawsuit or other court case to resolve a dispute.",
+      "source": "gemini"
+    },
+    {
+      "term": "obligation",
+      "definition": "A duty or commitment to do something, whether legally binding or morally expected.",
+      "source": "gemini"
+    },
+    {
+      "term": "prior written consent",
+      "definition": "Permission that has been explicitly granted in writing before an action is taken.",
+      "source": "gemini"
+    },
+    {
+      "term": "reserves the right",
+      "definition": "Holds the power or option to take a specific action at a later time.",
+      "source": "gemini"
+    },
+    {
+      "term": "termination of employment",
+      "definition": "The official end of a person's job with a company or organization.",
+      "source": "gemini"
+    },
+    {
+      "term": "third party",
+      "definition": "An individual or entity involved in a situation or agreement but not one of the principal parties directly concerned.",
+      "source": "gemini"
+    }
+  ]
+}

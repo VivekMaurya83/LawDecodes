@@ -1,0 +1,55 @@
+## Overall Summary
+
+Innovatech Solutions Inc. shares its principal office at 123 Tech Avenue, Silicon Valley, CA 94000. The company must keep all rights, titles, and interests in and to the Services and all related software, content and materials, including any intellectual property rights. It will not reverse engineer, decompile, or otherwise attempt to discover the source code or algorithms of the services. 2.2. Restrictions. This means that the company will only use it for internal business operations.
+
+---
+
+## Section-by-Section Breakdown
+
+Introduction/Preamble
+
+Innovatech Solutions Inc. shares its principal office at 123 Tech Avenue, Silicon Valley, CA 94000. The company has developed and owns a proprietary software platform and related services to the Subscriber, and the parties agree to share them with the subscriber.
+
+SECTION 1. DEFINITIONS
+
+Employees or contractors of the Subscribers will use the Services to provide them, including any updates, modifications, or other materials. 1.4. "Services" means any and all registered and unregistered rights granted, applied for or otherwise under any patent, copyright, trademark, database protection, and other intellectual property laws.
+
+SECTION 2. GRANT OF LICENSE AND USE OF SERVICES
+
+The Company grants the Subscriber a non-exclusive license to use the Services during the Term only for its internal business operations. 2.2. Restrictions. The company must not reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code or underlying ideas or algorithms of the services.
+
+SECTION 3. SUBSCRIBER OBLIGATIONS
+
+The Subscriber is responsible for all activities that occur in Authorized User accounts and for the Authorised Users' compliance with this agreement. The company must keep the confidentiality of its usernames and passwords. 3.2. Data Responsibility. It represents and warrants that it has obtained all necessary rights, releases, and permissions to provide all subscriber data to the Company.
+
+SECTION 4. FEES AND PAYMENT
+
+The Company must pay all taxes, levies, or duties, excluding taxes based solely on the Company's income. 4.4. Overdue Charges. The fees will be invoiced in advance and otherwise in accordance with the applicable Order Form.
+
+SECTION 5. TERM AND TERMINATION
+
+The Company will make Subscriber Data available for export for a period of thirty (30) days following termination. The company will not maintain or provide them to keep them.
+
+SECTION 6. CONFIDENTIALITY
+
+The Receiving Party uses the same degree of care that it uses to protect its own confidential information. The party must keep it confidential for any purpose outside the scope of this Agreement.
+
+SECTION 7. INTELLECTUAL PROPERTY RIGHTS
+
+The Company owns and retains all right, title, and interest in and to the Services and all related software, content and materials, including all intellectual property rights therein. 7.2. Subscriber Data. The subscriber must own and share all rights, titles and interests.
+
+SECTION 8. WARRANTIES AND DISCLAIMERS
+
+EXPRESSLY PROVIDED HEREIN, NEITHER PARTY DISCLAIMS ALL IMPLIED WARRANTIES, including any WARRANTies of MERCHANTABILITY, FFITNESS FOR aPARTICULAR PURPOSE, OR NON-INFRINGEMENT. THE SERVICES
+
+SECTION 9. LIMITATION OF LIABILITY
+
+EXCEED, LIABILITY, COVER, TWELVE, INCIDENT Text: 9.1. Limitation of Liability. Neither party will be responsible for any LOST PROFITS, OR FOR ANY PUNITIVE DAMAGES.
+
+SECTION 10. INDEMNIFICATION
+
+The Company must defend the Subscriber against any claim, demand, lawsuit, or proceeding against the Company by a third party alleging that the use of the Services infringes the intellectual property rights of another party. 10.2. Indemnification by the subscriber. The company must keep the company informed of any claims made or brought against
+
+SECTION 11. GENERAL PROVISIONS
+
+Vivek Maurya, Force Majeure, Jayesh Malvade and Innovatech Solutions Inc. will be governed by and construed in accordance with the laws of the state of California, without regard to its conflict of law principles. 11.2. force Majeurse. If any provision of this Agreement is held by a court of competent jurisdiction to be contrary to law, the agreement must be modified to meet the needs of each party.

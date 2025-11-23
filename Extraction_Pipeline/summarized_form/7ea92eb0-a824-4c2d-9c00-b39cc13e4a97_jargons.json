@@ -1,0 +1,104 @@
+{
+  "terms": [
+    {
+      "term": "Governing Law",
+      "definition": "The specific legal system of a jurisdiction that will be applied to interpret and enforce an agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "IN WITNESS WHEREOF",
+      "definition": "A formal phrase used at the end of a contract, preceding the signatures, signifying that the parties are signing to confirm their agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "Independent Contractor",
+      "definition": "A self-employed individual or entity hired to perform a specific job or service, retaining control over how the work is done.",
+      "source": "gemini"
+    },
+    {
+      "term": "NOW",
+      "definition": "Often used in legal documents to introduce the operative or binding part of an agreement after background information.",
+      "source": "gemini"
+    },
+    {
+      "term": "THEREFORE",
+      "definition": "A word used in legal documents, often following background 'WHEREAS' clauses, to introduce the operative terms or resolutions of an agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "WHEREAS",
+      "definition": "A word used at the beginning of recitals in a legal document to introduce background facts or reasons for the agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "agent",
+      "definition": "A person authorized to act on behalf of another party (the principal) in dealings with third parties.",
+      "source": "gemini"
+    },
+    {
+      "term": "choice of law",
+      "definition": "A contractual clause specifying which jurisdiction's laws will apply to resolve any disputes arising from the contract.",
+      "source": "gemini"
+    },
+    {
+      "term": "conflict of law provisions",
+      "definition": "Rules within a legal system that determine which jurisdiction's laws should apply when there is a dispute involving multiple legal systems.",
+      "source": "gemini"
+    },
+    {
+      "term": "construed in accordance with",
+      "definition": "Means that the terms of an agreement will be interpreted and understood according to the laws or principles of a specified jurisdiction.",
+      "source": "gemini"
+    },
+    {
+      "term": "employee",
+      "definition": "An individual hired to work for another person or company, subject to their control and paid a wage or salary.",
+      "source": "gemini"
+    },
+    {
+      "term": "entered into as of",
+      "definition": "Indicates the effective date from which the terms of an agreement are considered to be in force, regardless of the actual signing date.",
+      "source": "gemini"
+    },
+    {
+      "term": "executed",
+      "definition": "When a contract or document has been formally signed by all parties, making it legally binding.",
+      "source": "gemini"
+    },
+    {
+      "term": "herein",
+      "definition": "An adverb used in legal documents to refer to 'in this document' or 'in this agreement'.",
+      "source": "gemini"
+    },
+    {
+      "term": "in consideration of",
+      "definition": "A legal term indicating that something of value is being exchanged or given as the basis for a contract.",
+      "source": "gemini"
+    },
+    {
+      "term": "joint venturer",
+      "definition": "A participant in a temporary business arrangement or project with another party, sharing risks, profits, and control.",
+      "source": "gemini"
+    },
+    {
+      "term": "mutual covenants and promises",
+      "definition": "Refers to the reciprocal agreements and commitments made by all parties involved in a contract.",
+      "source": "gemini"
+    },
+    {
+      "term": "partner",
+      "definition": "A co-owner of a business or venture who shares in its profits, losses, and often its management.",
+      "source": "gemini"
+    },
+    {
+      "term": "principal place of business",
+      "definition": "The primary location where a company's business activities are managed and directed.",
+      "source": "gemini"
+    },
+    {
+      "term": "trade secrets",
+      "definition": "Confidential business information that provides a company with a competitive advantage and is legally protected from unauthorized disclosure.",
+      "source": "gemini"
+    }
+  ]
+}

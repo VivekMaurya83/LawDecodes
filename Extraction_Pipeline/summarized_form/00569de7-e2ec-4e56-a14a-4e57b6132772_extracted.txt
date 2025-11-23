@@ -1,0 +1,113 @@
+SOFTWARE-AS-A-SERVICE (SAAS) TERMS AND CONDITIONS AGREEMENT
+Effective Date: 4 Sep 2025
+
+This Software-as-a-Service (SaaS) Agreement ("Agreement") is entered into between Innovatech Solutions Inc., a Delaware corporation with its principal office at 123 Tech Avenue, Silicon Valley, CA 94000 ("Company"), and the customer executing an Order Form that references this Agreement ("Subscriber"). This Agreement governs the provision of the Company's services to the Subscriber.
+
+WHEREAS, the Company has developed and owns a proprietary software platform and related services, and WHEREAS, the Subscriber desires to access and use such services, the parties hereby agree as follows:
+
+
+SECTION 1. DEFINITIONS
+
+1.1. "Services" refers to the subscription-based software platform and services provided by the Company, as identified in the applicable Order Form, including any updates, modifications, or enhancements thereto.
+
+1.2. "Subscriber Data" means all electronic data, text, or other materials submitted by or for the Subscriber to the Services.
+
+1.3. "Authorized User" means an individual who is an employee or contractor of the Subscriber and who has been authorized by the Subscriber to use the Services.
+
+1.4. "Order Form" means the ordering document specifying the Services to be provided hereunder that is entered into between the Company and the Subscriber, including any addenda and supplements thereto.
+
+1.5. "Intellectual Property Rights" means any and all registered and unregistered rights granted, applied for, or otherwise now or hereafter in existence under or related to any patent, copyright, trademark, trade secret, database protection, or other intellectual property rights laws.
+
+1.6. "Service Level Agreement (SLA)" means the document outlining the Company's commitment to service uptime and performance, attached hereto as Exhibit A.
+
+
+SECTION 2. GRANT OF LICENSE AND USE OF SERVICES
+
+2.1. License Grant. Subject to the terms and conditions of this Agreement, the Company hereby grants to the Subscriber a non-exclusive, non-transferable, non-sublicensable, revocable license to access and use the Services during the Term for its internal business operations only.
+
+2.2. Restrictions. The Subscriber shall not, directly or indirectly: (a) reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code or underlying ideas or algorithms of the Services; (b) modify, translate, or create derivative works based on the Services; (c) rent, lease, distribute, sell, resell, assign, or otherwise transfer its rights to use the Services; (d) use the Services for the benefit of a third party, such as in a service bureau or timesharing arrangement; or (e) remove any proprietary notices or labels.
+
+
+SECTION 3. SUBSCRIBER OBLIGATIONS
+
+3.1. Account Responsibility. The Subscriber is responsible for all activities that occur in Authorized User accounts and for the Authorized Users' compliance with this Agreement. The Subscriber shall be responsible for maintaining the confidentiality of its usernames and passwords.
+
+3.2. Data Responsibility. The Subscriber is solely responsible for the accuracy, quality, integrity, legality, reliability, and appropriateness of all Subscriber Data. The Subscriber represents and warrants that it has obtained all necessary rights, releases, and permissions to provide all Subscriber Data to the Company.
+
+3.3. Acceptable Use. Subscriber shall not use the Services to store or transmit infringing, libelous, or otherwise unlawful or tortious material, or to store or transmit material in violation of third-party privacy rights.
+
+
+SECTION 4. FEES AND PAYMENT
+
+4.1. Subscription Fees. The Subscriber shall pay all fees specified in the applicable Order Form. Except as otherwise specified herein or in an Order Form, (i) fees are based on the Services subscriptions purchased and not actual usage, (ii) payment obligations are non-cancelable and fees paid are non-refundable, and (iii) the number of subscriptions purchased cannot be decreased during the relevant subscription term.
+
+4.2. Invoicing and Payment. Fees will be invoiced in advance and otherwise in accordance with the relevant Order Form. Unless otherwise stated, invoiced charges are due net thirty (30) days from the invoice date. The Subscriber is responsible for providing complete and accurate billing and contact information to the Company.
+
+4.3. Overdue Charges. If any invoiced amount is not received by the Company by the due date, then without limiting the Company's rights or remedies, those charges may accrue late interest at the rate of 1.5% of the outstanding balance per month, or the maximum rate permitted by law, whichever is lower.
+
+4.4. Taxes. The fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and the Subscriber shall be responsible for payment of all such taxes, levies, or duties, excluding only taxes based solely on the Company's income.
+
+
+SECTION 5. TERM AND TERMINATION
+
+5.1. Term of Agreement. This Agreement commences on the Effective Date and continues until all subscription terms hereunder have expired or have been terminated.
+
+5.2. Termination for Cause. A party may terminate this Agreement for cause: (i) upon thirty (30) days written notice to the other party of a material breach if such breach remains uncured at the expiration of such period, or (ii) if the other party becomes the subject of a petition in bankruptcy or any other proceeding relating to insolvency, receivership, liquidation, or assignment for the benefit of creditors.
+
+5.3. Effect of Termination. Upon any termination of this Agreement, the Subscriber shall immediately cease all use of the Services. The Company will make Subscriber Data available for export for a period of thirty (30) days following termination, after which the Company shall have no obligation to maintain or provide any Subscriber Data and may thereafter delete all Subscriber Data in its systems.
+
+
+SECTION 6. CONFIDENTIALITY
+
+6.1. Definition. "Confidential Information" means all information disclosed by a party ("Disclosing Party") to the other party ("Receiving Party"), whether orally or in writing, that is designated as confidential or that reasonably should be understood to be confidential given the nature of the information. Subscriber Data is the Confidential Information of the Subscriber.
+
+6.2. Protection. The Receiving Party agrees to use the same degree of care that it uses to protect its own confidential information of like kind (but in no event less than reasonable care) not to use or disclose any Confidential Information of the Disclosing Party for any purpose outside the scope of this Agreement.
+
+
+SECTION 7. INTELLECTUAL PROPERTY RIGHTS
+
+7.1. Company IP. The Company shall own and retain all right, title, and interest in and to the Services and all related software, content, and materials, including all Intellectual Property Rights therein.
+
+7.2. Subscriber Data. The Subscriber shall own all right, title, and interest in and to the Subscriber Data.
+
+
+SECTION 8. WARRANTIES AND DISCLAIMERS
+
+8.1. Warranties. Each party represents and warrants that it has the legal power and authority to enter into this Agreement.
+
+8.2. DISCLAIMER. EXCEPT AS EXPRESSLY PROVIDED HEREIN, NEITHER PARTY MAKES ANY WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE. THE COMPANY SPECIFICALLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. THE SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE."
+
+
+SECTION 9. LIMITATION OF LIABILITY
+
+9.1. Limitation of Liability. IN NO EVENT SHALL EITHER PARTY'S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT, OR UNDER ANY OTHER THEORY OF LIABILITY, EXCEED THE TOTAL AMOUNT PAID BY SUBSCRIBER HEREUNDER IN THE TWELVE (12) MONTHS PRECEDING THE INCIDENT.
+
+9.2. Exclusion of Consequential Damages. IN NO EVENT SHALL EITHER PARTY HAVE ANY LIABILITY TO THE OTHER PARTY FOR ANY LOST PROFITS OR REVENUES OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER, OR PUNITIVE DAMAGES HOWEVER CAUSED.
+
+
+SECTION 10. INDEMNIFICATION
+
+10.1. Indemnification by the Company. The Company shall defend the Subscriber against any claim, demand, suit, or proceeding made or brought against the Subscriber by a third party alleging that the use of the Services infringes the intellectual property rights of a third party.
+
+10.2. Indemnification by the Subscriber. The Subscriber shall defend the Company against any claim made or brought against the Company by a third party alleging that the Subscriber Data, or Subscriber's use of the Services in breach of this Agreement, infringes the rights of a third party.
+
+
+SECTION 11. GENERAL PROVISIONS
+
+11.1. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to its conflict of law principles.
+
+11.2. Force Majeure. Neither party shall be liable for any failure or delay in performance under this Agreement (other than for delay in the payment of money due and payable hereunder) for causes beyond that party's reasonable control, including, but not limited to, acts of God, war, or natural disaster.
+
+11.3. Entire Agreement. This Agreement, including all exhibits and addenda, constitutes the entire agreement between the parties and supersedes all prior and contemporaneous agreements.
+
+11.4. Severability. If any provision of this Agreement is held by a court of competent jurisdiction to be contrary to law, the provision shall be modified by the court and interpreted so as best to accomplish the objectives of the original provision to the fullest extent permitted by law.
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by their duly authorized representatives.
+
+COMPANY: Innovatech Solutions Inc.
+Name: Vivek Maurya
+Title: CEO
+
+SUBSCRIBER:
+Name: Jayesh Malvade
+Title: DOD

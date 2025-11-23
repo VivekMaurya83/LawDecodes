@@ -1,0 +1,21 @@
+# Overall Summary
+
+- Introduction/Preamble: Vinayak Mishra has a principal place of business at Parsik Colony, Kalwa (Thane-Nickname for them). Vedant Mallya is in need of services in the area of [Description of Services], and the Contractor has the necessary skills and experience to provide said services.
+- 1. Services. The Contractor agrees to perform the following services for the Client (the "Services"):: The Contractor agrees to perform the following services for the Client using HTML, CSS, and JavaScript, ensuring cross-browser compatibility with Chrome, Firefox, Safari and Safari. Develop a third-party Content Management System (CMS) to allow the client to manage blog content. Follow the Figma design mockups and send them to the specified email address and provide an automated confirmation
+- 6. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of [State], without giving effect to any choice of law or conflict of law provisions.: Vinayak Mishra CONTRACTOR, Vedant Mallya | GPE: CLIENT. The parties have executed this agreement as of the date first above written.
+
+---
+
+# Section-by-Section Breakdown
+
+Introduction/Preamble
+
+Vinayak Mishra has a principal place of business at Parsik Colony, Kalwa (Thane-Nickname for them). Vedant Mallya is in need of services in the area of [Description of Services], and the Contractor has the necessary skills and experience to provide said services.
+
+1. Services. The Contractor agrees to perform the following services for the Client (the "Services"):
+
+The Contractor agrees to perform the following services for the Client using HTML, CSS, and JavaScript, ensuring cross-browser compatibility with Chrome, Firefox, Safari and Safari. Develop a third-party Content Management System (CMS) to allow the client to manage blog content. Follow the Figma design mockups and send them to the specified email address and provide an automated confirmation
+
+6. Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of [State], without giving effect to any choice of law or conflict of law provisions.
+
+Vinayak Mishra CONTRACTOR, Vedant Mallya | GPE: CLIENT. The parties have executed this agreement as of the date first above written.

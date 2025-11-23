@@ -1,0 +1,53 @@
+{
+  "training_examples": [
+    {
+      "section_type": "contract",
+      "legal_text": "This Service Agreement ('Agreement') is entered into on January 15, 2024, between TechCorp LLC ('Provider') and Global Industries Inc. ('Client'). Provider shall deliver software development services for $150,000 total compensation. The project includes three phases with deliverables due March 1, June 1, and September 1, 2024 respectively.",
+      "summary": "Service Agreement between TechCorp LLC and Global Industries Inc., effective January 15, 2024. $150,000 for software development in three phases: March 1, June 1, September 1, 2024.",
+      "key_elements": {
+        "parties": ["TechCorp LLC", "Global Industries Inc."],
+        "dates": ["January 15, 2024", "March 1, 2024", "June 1, 2024", "September 1, 2024"],
+        "amounts": ["$150,000"]
+      }
+    },
+    {
+      "section_type": "liability",
+      "legal_text": "Section 8.1 Limitation of Liability. Neither party shall be liable for consequential, indirect, incidental, special, or punitive damages. Total liability under this Agreement shall not exceed $500,000. This limitation applies except in cases of gross negligence or willful misconduct as defined in Section 8.3.",
+      "summary": "Section 8.1 limits liability to $500,000, excluding consequential damages. Exception for gross negligence per Section 8.3.",
+      "key_elements": {
+        "sections": ["Section 8.1", "Section 8.3"],
+        "amounts": ["$500,000"]
+      }
+    },
+    {
+      "section_type": "intellectual_property",
+      "legal_text": "Clause 5.2 IP Ownership. All intellectual property rights in deliverables created under this Agreement shall vest in Client. Provider retains ownership of pre-existing IP and background technology. Client grants Provider a non-exclusive license to use Client's trademarks solely for marketing purposes until December 31, 2025.",
+      "summary": "Clause 5.2: Client owns new IP, Provider keeps pre-existing IP. Provider gets trademark license until December 31, 2025.",
+      "key_elements": {
+        "clauses": ["Clause 5.2"],
+        "dates": ["December 31, 2025"],
+        "parties": ["Client", "Provider"]
+      }
+    },
+    {
+      "section_type": "data_protection",
+      "legal_text": "Article 7 Data Protection and Privacy. Provider shall comply with GDPR, CCPA, and applicable data protection laws. Personal data retention period is 36 months after contract termination. Data breaches must be reported within 72 hours to Client and relevant authorities per Exhibit C procedures.",
+      "summary": "Article 7: GDPR/CCPA compliance required. 36-month data retention, 72-hour breach notification per Exhibit C.",
+      "key_elements": {
+        "statutes": ["Article 7"],
+        "references": ["Exhibit C"],
+        "laws": ["GDPR", "CCPA"]
+      }
+    },
+    {
+      "section_type": "force_majeure",
+      "legal_text": "Section 12.4 Force Majeure. Neither party shall be liable for delays or failures due to acts of God, war, terrorism, pandemics, government actions, or other events beyond reasonable control. The affected party must notify the other within 10 days and provide evidence per Schedule D. If force majeure continues beyond 180 days, either party may terminate.",
+      "summary": "Section 12.4: No liability for force majeure events (war, pandemic, etc.). 10-day notification required per Schedule D. 180-day termination right.",
+      "key_elements": {
+        "sections": ["Section 12.4"],
+        "references": ["Schedule D"],
+        "time_periods": ["10 days", "180 days"]
+      }
+    }
+  ]
+}

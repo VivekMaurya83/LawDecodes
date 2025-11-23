@@ -1,0 +1,31 @@
+## Overall Summary
+
+- 1. Introduction and Purpose: Acme Corporation shares the rights, rights and definitions of its employees. This is intended to provide guidance and ensure that our work is conducted in a legal and ethical manner. Respect for this code is based on employment requirements.
+- 2. Conflict of Interest: Employees must avoid any situation in which their personal interests could conflict with the interests of the Company. A conflict of interest exists when an employee's private interests interfere in any way with their interests. They must not use their position or company property for personal gain.
+- 3. Confidential and Proprietary Information: Employees may have access to confidential information regarding the Company, its customers, suppliers, and other employees. This information can only be disclosed to any third party without prior written consent from the company's legal department. The company will keep the information confidential for a long time, even after the termination of their job. These include financial data,
+- 4. Use of Company Assets: All Company assets, including equipment, supplies, computer systems, software, and information, must be used for legitimate business purposes only. Incidental personal use is permissible if it doesn't interfere with work performance and does not violate any other company policy. Employees must protect their assets from loss, damage, or theft.
+- 5. Disciplinary Action: The company will take action against companies for any violation of this Code of Conduct. It can lead to a verbal warning to immediate termination of employment and the pursuit of legal action. Depending on the severity of the infraction, the company can take disciplinary action to ensure proper action is taken.
+
+---
+
+## Section-by-Section Breakdown
+
+1. Introduction and Purpose
+
+Acme Corporation shares the rights, rights and definitions of its employees. This is intended to provide guidance and ensure that our work is conducted in a legal and ethical manner. Respect for this code is based on employment requirements.
+
+2. Conflict of Interest
+
+Employees must avoid any situation in which their personal interests could conflict with the interests of the Company. A conflict of interest exists when an employee's private interests interfere in any way with their interests. They must not use their position or company property for personal gain.
+
+3. Confidential and Proprietary Information
+
+Employees may have access to confidential information regarding the Company, its customers, suppliers, and other employees. This information can only be disclosed to any third party without prior written consent from the company's legal department. The company will keep the information confidential for a long time, even after the termination of their job. These include financial data,
+
+4. Use of Company Assets
+
+All Company assets, including equipment, supplies, computer systems, software, and information, must be used for legitimate business purposes only. Incidental personal use is permissible if it doesn't interfere with work performance and does not violate any other company policy. Employees must protect their assets from loss, damage, or theft.
+
+5. Disciplinary Action
+
+The company will take action against companies for any violation of this Code of Conduct. It can lead to a verbal warning to immediate termination of employment and the pursuit of legal action. Depending on the severity of the infraction, the company can take disciplinary action to ensure proper action is taken.

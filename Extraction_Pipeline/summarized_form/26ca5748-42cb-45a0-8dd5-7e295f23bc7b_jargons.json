@@ -1,0 +1,29 @@
+{
+  "terms": [
+    {
+      "term": "Confidential and Proprietary Information",
+      "definition": "This refers to sensitive, non-public information or intellectual property that belongs to an individual or organization and must be protected from unauthorized disclosure.",
+      "source": "gemini"
+    },
+    {
+      "term": "Conflict of Interest",
+      "definition": "A conflict of interest occurs when a person's private interests or relationships could potentially interfere with their professional duties or impartial decision-making.",
+      "source": "gemini"
+    },
+    {
+      "term": "infraction",
+      "definition": "An infraction is a minor violation of a rule, law, or agreement, often resulting in a penalty less severe than a crime.",
+      "source": "gemini"
+    },
+    {
+      "term": "pursuit of legal action",
+      "definition": "This describes the process of formally starting or continuing a lawsuit or other legal proceedings in court to resolve a dispute or enforce a right.",
+      "source": "gemini"
+    },
+    {
+      "term": "reserves the right",
+      "definition": "This phrase means that a person or entity explicitly retains the option or authority to take a particular action in the future, without committing to it currently.",
+      "source": "gemini"
+    }
+  ]
+}

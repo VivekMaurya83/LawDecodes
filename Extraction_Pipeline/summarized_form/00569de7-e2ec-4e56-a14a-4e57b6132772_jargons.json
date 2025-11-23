@@ -1,0 +1,499 @@
+{
+  "terms": [
+    {
+      "term": "\"AS AVAILABLE\"",
+      "definition": "Indicates that a service or product is provided without guarantees of uninterrupted access or perfect functionality, dependent on its current operational status.",
+      "source": "gemini"
+    },
+    {
+      "term": "\"AS IS\"",
+      "definition": "Indicates that a product or service is provided in its current condition, with all its existing faults, and without any implied warranties.",
+      "source": "gemini"
+    },
+    {
+      "term": "Aggregate Liability",
+      "definition": "The total maximum amount of money a party can be held responsible for under an agreement, regardless of the number of claims.",
+      "source": "gemini"
+    },
+    {
+      "term": "Confidential Information",
+      "definition": "Private or secret data, knowledge, or materials disclosed under an agreement that restricts its use and disclosure.",
+      "source": "gemini"
+    },
+    {
+      "term": "Consequential Damages",
+      "definition": "Indirect losses that occur as a result of a breach of contract or wrongful act, but are not direct or immediate.",
+      "source": "gemini"
+    },
+    {
+      "term": "Cover Damages",
+      "definition": "Damages awarded to a buyer who had to purchase substitute goods or services after the seller breached a contract.",
+      "source": "gemini"
+    },
+    {
+      "term": "DISCLAIMER",
+      "definition": "A statement that denies responsibility or legal liability for something.",
+      "source": "gemini"
+    },
+    {
+      "term": "Delaware corporation",
+      "definition": "A company incorporated under the laws of the state of Delaware, known for its business-friendly corporate statutes.",
+      "source": "gemini"
+    },
+    {
+      "term": "Disclosing Party",
+      "definition": "The party in an agreement who shares information, goods, or services with another party.",
+      "source": "gemini"
+    },
+    {
+      "term": "Entire Agreement",
+      "definition": "A contract clause stating that the written document is the complete and final understanding between the parties, overriding all prior discussions and agreements.",
+      "source": "gemini"
+    },
+    {
+      "term": "Exclusion of Consequential Damages",
+      "definition": "A contract clause that prevents one party from being held responsible for indirect or secondary losses suffered by the other party.",
+      "source": "gemini"
+    },
+    {
+      "term": "Exhibit A",
+      "definition": "A document attached to a main agreement that contains additional details, schedules, or specifications.",
+      "source": "gemini"
+    },
+    {
+      "term": "Fitness for a Particular Purpose",
+      "definition": "An implied warranty that a product is suitable for the specific use intended by the buyer, provided the seller was aware of that purpose.",
+      "source": "gemini"
+    },
+    {
+      "term": "Force Majeure",
+      "definition": "A contract clause that excuses parties from fulfilling their obligations due to unforeseen and unavoidable circumstances beyond their control.",
+      "source": "gemini"
+    },
+    {
+      "term": "Governing Law",
+      "definition": "The specific laws of a particular state or country that will be used to interpret and enforce a contract.",
+      "source": "gemini"
+    },
+    {
+      "term": "IN WITNESS WHEREOF",
+      "definition": "A formal phrase used at the end of a contract to introduce the signatures, signifying the parties' agreement to its terms.",
+      "source": "gemini"
+    },
+    {
+      "term": "Incidental Damages",
+      "definition": "Expenses reasonably incurred by the non-breaching party in dealing with a breach, such as costs for inspecting or returning defective goods.",
+      "source": "gemini"
+    },
+    {
+      "term": "Indemnification",
+      "definition": "A contractual obligation by one party to compensate another party for losses, damages, or legal costs incurred.",
+      "source": "gemini"
+    },
+    {
+      "term": "Indirect Damages",
+      "definition": "Losses that are not a direct and immediate result of a breach but are a secondary consequence (synonymous with Consequential Damages).",
+      "source": "gemini"
+    },
+    {
+      "term": "Intellectual Property Rights",
+      "definition": "Legal protections for creations of the mind, such as inventions, literary and artistic works, designs, and symbols, names, and images used in commerce.",
+      "source": "gemini"
+    },
+    {
+      "term": "License Grant",
+      "definition": "The formal act of giving someone permission to use a copyrighted work, patent, or other intellectual property, often with specified terms.",
+      "source": "gemini"
+    },
+    {
+      "term": "Limitation of Liability",
+      "definition": "A contract clause that sets a maximum amount of money one party can be required to pay to another for damages.",
+      "source": "gemini"
+    },
+    {
+      "term": "Lost Profits",
+      "definition": "The earnings a business would have made if a contract had not been breached or a wrongful act had not occurred.",
+      "source": "gemini"
+    },
+    {
+      "term": "Non-Infringement",
+      "definition": "A warranty or assurance that a product, service, or action does not violate the intellectual property rights of others.",
+      "source": "gemini"
+    },
+    {
+      "term": "Punitive Damages",
+      "definition": "Damages awarded in addition to actual losses, intended to punish the wrongdoer for malicious or reckless conduct and deter others.",
+      "source": "gemini"
+    },
+    {
+      "term": "Receiving Party",
+      "definition": "The party in an agreement who obtains information, goods, or services from the other party.",
+      "source": "gemini"
+    },
+    {
+      "term": "Service Level Agreement",
+      "definition": "A contract between a service provider and a customer that defines the specific level of service expected and metrics for measuring it.",
+      "source": "gemini"
+    },
+    {
+      "term": "Severability",
+      "definition": "A contract clause stating that if one part of the agreement is found to be invalid, the rest of the agreement remains enforceable.",
+      "source": "gemini"
+    },
+    {
+      "term": "Special Damages",
+      "definition": "Specific, measurable losses caused by a breach of contract or wrongdoing that are not direct but were foreseeable at the time of agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "Termination for Cause",
+      "definition": "The ending of an agreement due to a specific failure or wrongdoing by one of the parties, as defined in the contract.",
+      "source": "gemini"
+    },
+    {
+      "term": "WHEREAS",
+      "definition": "A formal word used at the beginning of a legal document to introduce background facts or statements leading up to the main agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "Warranties",
+      "definition": "Formal guarantees or promises made by one party to another, assuring that certain facts are true or certain conditions will be met.",
+      "source": "gemini"
+    },
+    {
+      "term": "Warranties of Merchantability",
+      "definition": "An implied warranty that goods are fit for the ordinary purposes for which such goods are used and are of acceptable quality.",
+      "source": "gemini"
+    },
+    {
+      "term": "accrue",
+      "definition": "To accumulate or build up over time, typically referring to financial obligations or rights.",
+      "source": "gemini"
+    },
+    {
+      "term": "acts of God",
+      "definition": "Unforeseeable natural events, such as floods or earthquakes, that are beyond human control and for which no one can be held responsible.",
+      "source": "gemini"
+    },
+    {
+      "term": "addenda",
+      "definition": "Additional documents or sections attached to an existing agreement to add, modify, or clarify its terms.",
+      "source": "gemini"
+    },
+    {
+      "term": "and interest",
+      "definition": "Typically refers to a principal amount plus any accumulated charges for the use of money.",
+      "source": "gemini"
+    },
+    {
+      "term": "assign",
+      "definition": "To legally transfer one's rights or obligations under a contract to another party.",
+      "source": "gemini"
+    },
+    {
+      "term": "assignment for the benefit of creditors",
+      "definition": "A legal process where a debtor transfers assets to a trustee to be distributed among their creditors.",
+      "source": "gemini"
+    },
+    {
+      "term": "claim",
+      "definition": "A formal request for something owed, or a statement of a legal right.",
+      "source": "gemini"
+    },
+    {
+      "term": "conflict of law principles",
+      "definition": "Rules used by courts to determine which jurisdiction's laws apply when a legal dispute involves parties or events from multiple jurisdictions.",
+      "source": "gemini"
+    },
+    {
+      "term": "contract",
+      "definition": "A legally binding agreement between two or more parties that creates mutual obligations enforceable by law.",
+      "source": "gemini"
+    },
+    {
+      "term": "copyright",
+      "definition": "The exclusive legal right to reproduce, publish, sell, or distribute an original work of authorship, such as a book, music, or software.",
+      "source": "gemini"
+    },
+    {
+      "term": "court of competent jurisdiction",
+      "definition": "A court that has the legal authority to hear and decide a particular type of case.",
+      "source": "gemini"
+    },
+    {
+      "term": "database protection",
+      "definition": "Legal rights that protect the collection and arrangement of data, distinct from the copyright on the individual pieces of data.",
+      "source": "gemini"
+    },
+    {
+      "term": "decompile",
+      "definition": "To convert a computer program from its compiled, low-level form back into a more human-readable source code.",
+      "source": "gemini"
+    },
+    {
+      "term": "demand",
+      "definition": "A formal request for payment, performance, or action.",
+      "source": "gemini"
+    },
+    {
+      "term": "derivative works",
+      "definition": "New creative works that are based on or adapted from one or more pre-existing copyrighted works.",
+      "source": "gemini"
+    },
+    {
+      "term": "disassemble",
+      "definition": "To break down a machine, structure, or program into its constituent parts or lower-level code.",
+      "source": "gemini"
+    },
+    {
+      "term": "disclaims all implied warranties",
+      "definition": "A statement explicitly rejecting any unstated or unwritten guarantees about a product or service.",
+      "source": "gemini"
+    },
+    {
+      "term": "duly authorized representatives",
+      "definition": "Individuals who have been properly given the legal power to act on behalf of a company or person.",
+      "source": "gemini"
+    },
+    {
+      "term": "duties",
+      "definition": "Legal or moral obligations or responsibilities that a party is bound to perform.",
+      "source": "gemini"
+    },
+    {
+      "term": "hereby agree",
+      "definition": "A formal way to state that the parties are immediately entering into an agreement or making a promise by means of this document.",
+      "source": "gemini"
+    },
+    {
+      "term": "hereby grants",
+      "definition": "A formal way to state that permission or a right is being given immediately by means of this document.",
+      "source": "gemini"
+    },
+    {
+      "term": "herein",
+      "definition": "In this specific document or agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "hereto",
+      "definition": "To this specific agreement, document, or instrument.",
+      "source": "gemini"
+    },
+    {
+      "term": "hereunder",
+      "definition": "Under the terms or provisions of this specific agreement or document.",
+      "source": "gemini"
+    },
+    {
+      "term": "implied warranties",
+      "definition": "Guarantees about a product or service that are not explicitly written but are understood to exist by law or custom.",
+      "source": "gemini"
+    },
+    {
+      "term": "infringes the intellectual property rights",
+      "definition": "Violates the legal protections granted to creators and owners of original works, inventions, or distinctive marks.",
+      "source": "gemini"
+    },
+    {
+      "term": "infringing",
+      "definition": "Violating someone else's legal rights, especially intellectual property rights like copyright, patent, or trademark.",
+      "source": "gemini"
+    },
+    {
+      "term": "insolvency",
+      "definition": "The state of being unable to pay debts when they are due.",
+      "source": "gemini"
+    },
+    {
+      "term": "legal power and authority",
+      "definition": "The official right and capacity to act or make decisions that are legally binding.",
+      "source": "gemini"
+    },
+    {
+      "term": "levies",
+      "definition": "The imposition or collection of a tax, fine, or other payment by an authority.",
+      "source": "gemini"
+    },
+    {
+      "term": "libelous",
+      "definition": "Containing a false and damaging written statement about someone, typically harming their reputation.",
+      "source": "gemini"
+    },
+    {
+      "term": "liquidation",
+      "definition": "The process of converting assets into cash, especially for the purpose of dissolving a business or settling debts.",
+      "source": "gemini"
+    },
+    {
+      "term": "material breach",
+      "definition": "A serious violation of a contract that defeats its essential purpose and justifies the non-breaching party in ending the agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "net thirty (30) days",
+      "definition": "Payment for an invoice is due in full within 30 days of the invoice date.",
+      "source": "gemini"
+    },
+    {
+      "term": "non-cancelable",
+      "definition": "An agreement or obligation that cannot be terminated or revoked by one party without the consent of the other, or without specific conditions being met.",
+      "source": "gemini"
+    },
+    {
+      "term": "non-exclusive",
+      "definition": "A right or permission that can also be granted to other parties simultaneously.",
+      "source": "gemini"
+    },
+    {
+      "term": "non-refundable",
+      "definition": "Money paid that will not be returned to the payer under any circumstances.",
+      "source": "gemini"
+    },
+    {
+      "term": "non-sublicensable",
+      "definition": "A license that cannot be further granted or passed on to a third party by the licensee.",
+      "source": "gemini"
+    },
+    {
+      "term": "non-transferable",
+      "definition": "Cannot be given, sold, or legally passed to another person or entity.",
+      "source": "gemini"
+    },
+    {
+      "term": "or proceeding",
+      "definition": "Refers to a lawsuit, arbitration, or any other formal legal action or process.",
+      "source": "gemini"
+    },
+    {
+      "term": "patent",
+      "definition": "A legal right granted to an inventor for an invention, allowing them to exclude others from making, using, or selling it for a set period.",
+      "source": "gemini"
+    },
+    {
+      "term": "permissions",
+      "definition": "Formal authorizations or consents to do something.",
+      "source": "gemini"
+    },
+    {
+      "term": "petition in bankruptcy",
+      "definition": "A formal request filed with a court by an individual or organization to declare themselves or be declared legally bankrupt.",
+      "source": "gemini"
+    },
+    {
+      "term": "proprietary",
+      "definition": "Relating to ownership or exclusive rights to something, typically intellectual property or confidential information.",
+      "source": "gemini"
+    },
+    {
+      "term": "proprietary notices",
+      "definition": "Markings or statements, like copyright or trademark symbols, indicating ownership and legal rights to intellectual property.",
+      "source": "gemini"
+    },
+    {
+      "term": "reasonable care",
+      "definition": "The level of caution and diligence that a prudent and competent person would exercise under similar circumstances.",
+      "source": "gemini"
+    },
+    {
+      "term": "receivership",
+      "definition": "A legal process where a court-appointed individual takes control of a company's assets to manage them for creditors or other parties.",
+      "source": "gemini"
+    },
+    {
+      "term": "releases",
+      "definition": "Formally gives up a claim, right, or obligation against another party.",
+      "source": "gemini"
+    },
+    {
+      "term": "remedies",
+      "definition": "The legal means by which a right is enforced or the violation of a right is prevented or compensated.",
+      "source": "gemini"
+    },
+    {
+      "term": "represents and warrants",
+      "definition": "A formal statement in a contract where a party affirms that certain facts are true and promises they will remain so, serving as a basis for the agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "reverse engineer",
+      "definition": "To dismantle and analyze a product or system to understand its design, function, or components, often to replicate or improve it.",
+      "source": "gemini"
+    },
+    {
+      "term": "revocable license",
+      "definition": "Permission to use something that can be withdrawn or canceled by the grantor at any time.",
+      "source": "gemini"
+    },
+    {
+      "term": "right",
+      "definition": "A legal, moral, or social entitlement to something or to act in a certain way.",
+      "source": "gemini"
+    },
+    {
+      "term": "rights",
+      "definition": "Legal, moral, or social entitlements or freedoms.",
+      "source": "gemini"
+    },
+    {
+      "term": "service bureau",
+      "definition": "A company that provides specialized business services, often related to data processing or IT, to other businesses.",
+      "source": "gemini"
+    },
+    {
+      "term": "statutory warranties",
+      "definition": "Guarantees or assurances that are required by law, rather than being explicitly stated in a contract.",
+      "source": "gemini"
+    },
+    {
+      "term": "suit",
+      "definition": "A legal action or proceeding brought by one party against another in a court of law.",
+      "source": "gemini"
+    },
+    {
+      "term": "supersedes all prior and contemporaneous agreements",
+      "definition": "This agreement replaces and takes precedence over all previous discussions and existing agreements, whether written or verbal.",
+      "source": "gemini"
+    },
+    {
+      "term": "theory of liability",
+      "definition": "The legal basis or justification for holding a party responsible for damages or a wrong.",
+      "source": "gemini"
+    },
+    {
+      "term": "timesharing arrangement",
+      "definition": "An arrangement where multiple users share access to a computer system or software, typically at different times or with allocated resources.",
+      "source": "gemini"
+    },
+    {
+      "term": "title",
+      "definition": "The legal right of ownership of property.",
+      "source": "gemini"
+    },
+    {
+      "term": "tort",
+      "definition": "A civil wrong that causes a claimant to suffer loss or harm, resulting in legal liability for the person who commits the act.",
+      "source": "gemini"
+    },
+    {
+      "term": "tortious",
+      "definition": "Involving a tort, which is a civil wrong that causes harm or loss to another person, leading to legal liability.",
+      "source": "gemini"
+    },
+    {
+      "term": "trade secret",
+      "definition": "Confidential business information, such as formulas, practices, or designs, that gives a company a competitive advantage and is protected by law.",
+      "source": "gemini"
+    },
+    {
+      "term": "trademark",
+      "definition": "A symbol, word, or phrase legally registered or established by use as representing a company or product.",
+      "source": "gemini"
+    },
+    {
+      "term": "uncured",
+      "definition": "A defect, breach, or problem that has not been corrected or resolved.",
+      "source": "gemini"
+    }
+  ]
+}

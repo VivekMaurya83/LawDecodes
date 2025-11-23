@@ -1,0 +1,64 @@
+{
+  "terms": [
+    {
+      "term": "Confidential and Proprietary Information",
+      "definition": "Non-public business information, trade secrets, or data that belongs to a company and must be kept private.",
+      "source": "gemini"
+    },
+    {
+      "term": "Conflict of Interest",
+      "definition": "A situation where a person's personal interests, relationships, or duties could improperly influence their professional judgment or actions for a company.",
+      "source": "gemini"
+    },
+    {
+      "term": "Disciplinary Action",
+      "definition": "Formal steps an employer takes to address an employee's misconduct, poor performance, or violation of company policy.",
+      "source": "gemini"
+    },
+    {
+      "term": "Employee Code of Conduct",
+      "definition": "A set of rules and guidelines that outlines the expected behavior, ethical standards, and professional responsibilities for all employees.",
+      "source": "gemini"
+    },
+    {
+      "term": "condition of employment",
+      "definition": "A requirement or qualification an individual must meet or maintain to be hired for or continue in a job.",
+      "source": "gemini"
+    },
+    {
+      "term": "infraction",
+      "definition": "A minor violation or breaking of a rule, law, or agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "legal action",
+      "definition": "The process of bringing a lawsuit or taking other formal steps through the court system to resolve a dispute.",
+      "source": "gemini"
+    },
+    {
+      "term": "obligation",
+      "definition": "A duty or commitment to do something, which can be legally, morally, or contractually required.",
+      "source": "gemini"
+    },
+    {
+      "term": "reserves the right",
+      "definition": "A statement indicating that a person or entity retains the power or option to take a specific action in the future.",
+      "source": "gemini"
+    },
+    {
+      "term": "termination of employment",
+      "definition": "The official end of a person's job with a company, whether initiated by the employee or the employer.",
+      "source": "gemini"
+    },
+    {
+      "term": "third party",
+      "definition": "A person or entity involved in an agreement or situation who is not one of the main individuals or groups directly concerned.",
+      "source": "gemini"
+    },
+    {
+      "term": "written consent",
+      "definition": "Official permission or agreement that is documented in a written format, often requiring a signature.",
+      "source": "gemini"
+    }
+  ]
+}

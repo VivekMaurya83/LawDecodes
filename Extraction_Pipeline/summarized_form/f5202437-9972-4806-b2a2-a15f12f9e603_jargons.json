@@ -1,0 +1,24 @@
+{
+  "terms": [
+    {
+      "term": "Confidential Information",
+      "definition": "Information that must be kept secret and is not shared with the general public, often due to a legal obligation or agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "Conflict of Interest",
+      "definition": "A situation where a person's personal interests or duties clash with their professional responsibilities, potentially influencing their decisions unfairly.",
+      "source": "gemini"
+    },
+    {
+      "term": "Proprietary Information",
+      "definition": "Information owned by a company or individual that is valuable due to its secrecy and is not publicly known, often providing a competitive advantage.",
+      "source": "gemini"
+    },
+    {
+      "term": "pursuit of legal action",
+      "definition": "The act of taking steps to file a lawsuit or begin a formal legal case in a court of law.",
+      "source": "gemini"
+    }
+  ]
+}

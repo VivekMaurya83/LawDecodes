@@ -1,0 +1,237 @@
+2025-10-04 11:47:28,148 - INFO - All required files validated successfully
+2025-10-04 11:48:14,585 - INFO - All required files validated successfully
+2025-10-04 11:48:14,685 - INFO - ==================================================
+2025-10-04 11:48:14,693 - INFO - Starting: PDF text extraction from legal documents
+2025-10-04 11:48:14,694 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\pdf_extract.py
+2025-10-04 11:48:14,872 - ERROR - Error output: Traceback (most recent call last):
+  File "D:\RAG Model\data\raw\legal_documents\pdf_extract.py", line 6, in <module>
+    from google import genai
+ModuleNotFoundError: No module named 'google'
+
+2025-10-04 11:51:42,336 - INFO - All required files validated successfully
+2025-10-04 11:51:48,049 - INFO - All required files validated successfully
+2025-10-04 11:51:48,050 - INFO - Starting RAG Model Pipeline
+2025-10-04 11:51:48,051 - INFO - ==================================================
+2025-10-04 11:51:48,052 - INFO - 
+Step 1: PDF Text Extraction
+2025-10-04 11:51:48,054 - INFO - Starting: PDF text extraction from legal documents
+2025-10-04 11:51:48,055 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\pdf_extract.py
+2025-10-04 11:51:48,450 - ERROR - ERROR: Failed: PDF text extraction from legal documents
+2025-10-04 11:51:48,451 - ERROR - Error output: Traceback (most recent call last):
+  File "D:\RAG Model\data\raw\legal_documents\pdf_extract.py", line 6, in <module>
+    from google import genai
+ImportError: cannot import name 'genai' from 'google' (unknown location)
+
+2025-10-04 11:51:48,452 - ERROR - ERROR: PDF extraction failed. Stopping pipeline.
+2025-10-04 11:51:48,453 - ERROR - ERROR: Orchestrator failed!
+2025-10-04 11:52:22,555 - INFO - All required files validated successfully
+2025-10-04 11:52:22,556 - INFO - Starting RAG Model Pipeline
+2025-10-04 11:52:22,557 - INFO - ==================================================
+2025-10-04 11:52:22,558 - INFO - 
+Step 1: PDF Text Extraction
+2025-10-04 11:52:22,558 - INFO - Starting: PDF text extraction from legal documents
+2025-10-04 11:52:22,559 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\pdf_extract.py
+2025-10-04 11:52:26,214 - ERROR - ERROR: Failed: PDF text extraction from legal documents
+2025-10-04 11:52:26,215 - ERROR - Error output: Traceback (most recent call last):
+  File "D:\RAG Model\data\raw\legal_documents\pdf_extract.py", line 25, in extract_access_control_pdf
+    print(f"\u2713 PDF loaded ({len(pdf_data)} bytes)")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 0: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\RAG Model\data\raw\legal_documents\pdf_extract.py", line 200, in <module>
+    main()
+    ~~~~^^
+  File "D:\RAG Model\data\raw\legal_documents\pdf_extract.py", line 186, in main
+    extracted_text = extract_access_control_pdf(PDF_FILE, OUTPUT_TXT, API_KEY)
+  File "D:\RAG Model\data\raw\legal_documents\pdf_extract.py", line 30, in extract_access_control_pdf
+    print(f"\u2717 Error reading PDF: {e}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2717' in position 0: character maps to <undefined>
+
+2025-10-04 11:52:26,216 - ERROR - ERROR: PDF extraction failed. Stopping pipeline.
+2025-10-04 11:52:26,217 - ERROR - ERROR: Orchestrator failed!
+2025-10-04 11:52:48,352 - INFO - All required files validated successfully
+2025-10-04 11:52:48,352 - INFO - Starting RAG Model Pipeline
+2025-10-04 11:52:48,353 - INFO - ==================================================
+2025-10-04 11:52:48,353 - INFO - 
+Step 1: PDF Text Extraction
+2025-10-04 11:52:48,354 - INFO - Starting: PDF text extraction from legal documents
+2025-10-04 11:52:48,354 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\pdf_extract.py
+2025-10-04 11:53:05,984 - ERROR - ERROR: Failed: PDF text extraction from legal documents
+2025-10-04 11:53:05,985 - ERROR - Error output: WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1759558971.077581   13704 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+E0000 00:00:1759558982.247351   13704 alts_credentials.cc:93] ALTS creds ignored. Not running on GCP and untrusted ALTS is not enabled.
+Traceback (most recent call last):
+  File "D:\RAG Model\data\raw\legal_documents\pdf_extract.py", line 200, in <module>
+    main()
+    ~~~~^^
+  File "D:\RAG Model\data\raw\legal_documents\pdf_extract.py", line 195, in main
+    print("\n\u2713 All operations completed!")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2713' in position 2: character maps to <undefined>
+
+2025-10-04 11:53:05,986 - ERROR - ERROR: PDF extraction failed. Stopping pipeline.
+2025-10-04 11:53:05,986 - ERROR - ERROR: Orchestrator failed!
+2025-10-04 11:54:53,601 - INFO - All required files validated successfully
+2025-10-04 11:54:53,602 - INFO - Starting RAG Model Pipeline
+2025-10-04 11:54:53,602 - INFO - ==================================================
+2025-10-04 11:54:53,603 - INFO - 
+Step 1: PDF Text Extraction
+2025-10-04 11:54:53,603 - INFO - Starting: PDF text extraction from legal documents
+2025-10-04 11:54:53,603 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\pdf_extract.py
+2025-10-04 11:55:08,082 - INFO - SUCCESS: Successfully completed: PDF text extraction from legal documents
+2025-10-04 11:55:08,083 - INFO - 
+Step 2: Summary Generation
+2025-10-04 11:55:08,084 - INFO - Starting: Summary generation from extracted text
+2025-10-04 11:55:08,084 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\summary_extracted_audit.py
+2025-10-04 11:55:08,514 - ERROR - ERROR: Failed: Summary generation from extracted text
+2025-10-04 11:55:08,515 - ERROR - Error output: Traceback (most recent call last):
+  File "D:\RAG Model\data\raw\legal_documents\summary_extracted_audit.py", line 1, in <module>
+    import pandas as pd
+ModuleNotFoundError: No module named 'pandas'
+
+2025-10-04 11:55:08,515 - ERROR - ERROR: Summary generation failed. Stopping pipeline.
+2025-10-04 11:55:08,516 - ERROR - ERROR: Orchestrator failed!
+2025-10-04 11:58:28,839 - INFO - All required files validated successfully
+2025-10-04 11:58:28,840 - INFO - Starting RAG Model Pipeline
+2025-10-04 11:58:28,841 - INFO - ==================================================
+2025-10-04 11:58:28,841 - INFO - 
+Step 1: PDF Text Extraction
+2025-10-04 11:58:28,842 - INFO - Starting: PDF text extraction from legal documents
+2025-10-04 11:58:28,842 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\pdf_extract.py
+2025-10-04 11:58:47,689 - INFO - SUCCESS: Successfully completed: PDF text extraction from legal documents
+2025-10-04 11:58:47,689 - INFO - 
+Step 2: Summary Generation
+2025-10-04 11:58:47,689 - INFO - Starting: Summary generation from extracted text
+2025-10-04 11:58:47,690 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\summary_extracted_audit.py
+2025-10-04 11:58:57,554 - ERROR - ERROR: Failed: Summary generation from extracted text
+2025-10-04 11:58:57,555 - ERROR - Error output: Traceback (most recent call last):
+  File "D:\RAG Model\data\raw\legal_documents\summary_extracted_audit.py", line 409, in <module>
+    generator = GeminiPDFGenerator()
+  File "D:\RAG Model\data\raw\legal_documents\summary_extracted_audit.py", line 31, in __init__
+    print("\u26a0 Warning: No API key found. Set GEMINI_API_KEY or GOOGLE_API_KEY environment variable.")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u26a0' in position 0: character maps to <undefined>
+
+2025-10-04 11:58:57,555 - ERROR - ERROR: Summary generation failed. Stopping pipeline.
+2025-10-04 11:58:57,556 - ERROR - ERROR: Orchestrator failed!
+2025-10-04 12:00:17,368 - INFO - All required files validated successfully
+2025-10-04 12:00:17,369 - INFO - Starting RAG Model Pipeline
+2025-10-04 12:00:17,370 - INFO - ==================================================
+2025-10-04 12:00:17,370 - INFO - 
+Step 1: PDF Text Extraction
+2025-10-04 12:00:17,371 - INFO - Starting: PDF text extraction from legal documents
+2025-10-04 12:00:17,371 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\pdf_extract.py
+2025-10-04 12:00:31,870 - INFO - SUCCESS: Successfully completed: PDF text extraction from legal documents
+2025-10-04 12:00:31,873 - INFO - 
+Step 2: Summary Generation
+2025-10-04 12:00:32,030 - INFO - Starting: Summary generation from extracted text
+2025-10-04 12:00:32,037 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\summary_extracted_audit.py
+2025-10-04 12:00:49,138 - INFO - SUCCESS: Successfully completed: Summary generation from extracted text
+2025-10-04 12:00:49,140 - INFO - 
+Step 3: Verifying Target File
+2025-10-04 12:00:49,141 - INFO - SUCCESS: Target file exists and has content (1185 bytes): D:\RAG Model\data\raw\legal_documents\extracted_access_control.txt
+2025-10-04 12:00:49,142 - INFO - 
+Step 4: Starting RAG Model
+2025-10-04 12:00:49,142 - INFO - Starting: RAG model execution with D:\RAG Model\data\raw\legal_documents\extracted_access_control.txt
+2025-10-04 12:00:49,143 - INFO - Executing: python D:\RAG Model\main.py
+2025-10-04 12:00:49,385 - ERROR - ERROR: Failed: RAG model execution with D:\RAG Model\data\raw\legal_documents\extracted_access_control.txt
+2025-10-04 12:00:49,386 - ERROR - Error output: Traceback (most recent call last):
+  File "D:\RAG Model\main.py", line 4, in <module>
+    from src.preprocessing.document_processor import DocumentProcessor
+  File "D:\RAG Model\src\preprocessing\document_processor.py", line 10, in <module>
+    from langchain.schema import Document
+ModuleNotFoundError: No module named 'langchain'
+
+2025-10-04 12:00:49,386 - ERROR - ERROR: RAG model execution failed.
+2025-10-04 12:00:49,386 - ERROR - ERROR: Orchestrator failed!
+2025-10-04 12:20:52,509 - INFO - All required files validated successfully
+2025-10-04 12:20:52,510 - INFO - Starting RAG Model Pipeline
+2025-10-04 12:20:52,510 - INFO - ==================================================
+2025-10-04 12:20:52,510 - INFO - 
+Step 1: PDF Text Extraction
+2025-10-04 12:20:52,511 - INFO - Starting: PDF text extraction from legal documents
+2025-10-04 12:20:52,511 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\pdf_extract.py
+2025-10-04 12:21:30,595 - INFO - SUCCESS: Successfully completed: PDF text extraction from legal documents
+2025-10-04 12:21:30,596 - INFO - 
+Step 2: Summary Generation
+2025-10-04 12:21:30,597 - INFO - Starting: Summary generation from extracted text
+2025-10-04 12:21:30,598 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\summary_extracted_audit.py
+2025-10-04 12:21:46,315 - INFO - SUCCESS: Successfully completed: Summary generation from extracted text
+2025-10-04 12:21:46,316 - INFO - 
+Step 3: Verifying Target File
+2025-10-04 12:21:46,316 - INFO - SUCCESS: Target file exists and has content (1185 bytes): D:\RAG Model\data\raw\legal_documents\extracted_access_control.txt
+2025-10-04 12:21:46,316 - INFO - 
+Step 4: Starting RAG Model
+2025-10-04 12:21:46,317 - INFO - Starting: RAG model execution with D:\RAG Model\data\raw\legal_documents\extracted_access_control.txt
+2025-10-04 12:21:46,317 - INFO - Executing: python D:\RAG Model\main.py
+2025-10-04 12:22:13,140 - ERROR - ERROR: Failed: RAG model execution with D:\RAG Model\data\raw\legal_documents\extracted_access_control.txt
+2025-10-04 12:22:13,141 - ERROR - Error output: Traceback (most recent call last):
+  File "D:\RAG Model\main.py", line 6, in <module>
+    from src.memory.conversation_memory import LegalConversationMemory
+  File "D:\RAG Model\src\memory\conversation_memory.py", line 78, in <module>
+    from src.generation.gemini_llm import GeminiLLM
+  File "D:\RAG Model\src\generation\gemini_llm.py", line 3, in <module>
+    from langchain_google_genai import ChatGoogleGenerativeAI
+ModuleNotFoundError: No module named 'langchain_google_genai'
+
+2025-10-04 12:22:13,141 - ERROR - ERROR: RAG model execution failed.
+2025-10-04 12:22:13,141 - ERROR - ERROR: Orchestrator failed!
+2025-10-04 12:24:08,315 - INFO - All required files validated successfully
+2025-10-04 12:24:08,316 - INFO - Starting RAG Model Pipeline
+2025-10-04 12:24:08,316 - INFO - ==================================================
+2025-10-04 12:24:08,317 - INFO - 
+Step 1: PDF Text Extraction
+2025-10-04 12:24:08,318 - INFO - Starting: PDF text extraction from legal documents
+2025-10-04 12:24:08,319 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\pdf_extract.py
+2025-10-04 12:24:28,119 - INFO - SUCCESS: Successfully completed: PDF text extraction from legal documents
+2025-10-04 12:24:28,120 - INFO - 
+Step 2: Summary Generation
+2025-10-04 12:24:28,120 - INFO - Starting: Summary generation from extracted text
+2025-10-04 12:24:28,120 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\summary_extracted_audit.py
+2025-10-04 12:24:45,022 - INFO - SUCCESS: Successfully completed: Summary generation from extracted text
+2025-10-04 12:24:45,023 - INFO - 
+Step 3: Verifying Target File
+2025-10-04 12:24:45,024 - INFO - SUCCESS: Target file exists and has content (1185 bytes): D:\RAG Model\data\raw\legal_documents\extracted_access_control.txt
+2025-10-04 12:24:45,024 - INFO - 
+Step 4: Starting RAG Model
+2025-10-04 12:24:45,025 - INFO - Starting: RAG model execution with D:\RAG Model\data\raw\legal_documents\extracted_access_control.txt
+2025-10-04 12:24:45,025 - INFO - Executing: python D:\RAG Model\main.py
+2025-10-04 12:29:45,193 - ERROR - TIMEOUT: RAG model execution with D:\RAG Model\data\raw\legal_documents\extracted_access_control.txt took too long to complete
+2025-10-04 12:29:45,194 - ERROR - ERROR: RAG model execution failed.
+2025-10-04 12:29:45,194 - ERROR - ERROR: Orchestrator failed!
+2025-10-04 12:30:23,735 - INFO - All required files validated successfully
+2025-10-04 12:30:23,736 - INFO - Starting RAG Model Pipeline
+2025-10-04 12:30:23,736 - INFO - ==================================================
+2025-10-04 12:30:23,736 - INFO - 
+Step 1: PDF Text Extraction
+2025-10-04 12:30:23,737 - INFO - Starting: PDF text extraction from legal documents
+2025-10-04 12:30:23,737 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\pdf_extract.py
+2025-10-04 12:30:39,162 - INFO - SUCCESS: Successfully completed: PDF text extraction from legal documents
+2025-10-04 12:30:39,162 - INFO - 
+Step 2: Summary Generation
+2025-10-04 12:30:39,163 - INFO - Starting: Summary generation from extracted text
+2025-10-04 12:30:39,163 - INFO - Executing: python D:\RAG Model\data\raw\legal_documents\summary_extracted_audit.py
+2025-10-04 12:30:54,913 - INFO - SUCCESS: Successfully completed: Summary generation from extracted text
+2025-10-04 12:30:54,914 - INFO - 
+Step 3: Verifying Target File
+2025-10-04 12:30:54,914 - INFO - SUCCESS: Target file exists and has content (1185 bytes): D:\RAG Model\data\raw\legal_documents\extracted_access_control.txt
+2025-10-04 12:30:54,915 - INFO - 
+Step 4: Starting RAG Model
+2025-10-04 12:30:54,915 - INFO - Starting: RAG model execution with D:\RAG Model\data\raw\legal_documents\extracted_access_control.txt
+2025-10-04 12:30:54,916 - INFO - Executing: python D:\RAG Model\main.py

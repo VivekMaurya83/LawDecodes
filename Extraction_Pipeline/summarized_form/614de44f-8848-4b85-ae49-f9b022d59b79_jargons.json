@@ -1,0 +1,99 @@
+{
+  "terms": [
+    {
+      "term": "Governing Law",
+      "definition": "The specific laws of a particular jurisdiction that will be used to interpret and enforce an agreement or contract.",
+      "source": "gemini"
+    },
+    {
+      "term": "IN WITNESS WHEREOF",
+      "definition": "A formal phrase typically placed at the end of a legal document, indicating that the parties have signed to confirm their agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "Independent Contractor",
+      "definition": "A self-employed individual or entity hired to perform a specific task or project, who controls the methods and means of completing the work.",
+      "source": "gemini"
+    },
+    {
+      "term": "NOW",
+      "definition": "Used in legal documents to introduce the operative clauses or main agreement points, typically following introductory statements.",
+      "source": "gemini"
+    },
+    {
+      "term": "THEREFORE",
+      "definition": "For that reason; consequently; often used to introduce a conclusion or resolution based on preceding statements.",
+      "source": "gemini"
+    },
+    {
+      "term": "WHEREAS",
+      "definition": "A formal introductory word used in legal documents to present background information, reasons, or recitals leading up to the main agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "aforesaid",
+      "definition": "Referring to something that has been mentioned earlier in the document.",
+      "source": "gemini"
+    },
+    {
+      "term": "agent",
+      "definition": "A person authorized to act on behalf of another person or entity (the principal) in dealings with third parties.",
+      "source": "gemini"
+    },
+    {
+      "term": "choice of law",
+      "definition": "A contractual clause specifying which jurisdiction's laws will apply to any disputes arising from the contract.",
+      "source": "gemini"
+    },
+    {
+      "term": "conflict of law provisions",
+      "definition": "Rules used by courts to determine which jurisdiction's laws should apply when a legal dispute involves parties or events from different jurisdictions.",
+      "source": "gemini"
+    },
+    {
+      "term": "employee",
+      "definition": "An individual who works for an employer under a contract, subject to the employer's control and direction.",
+      "source": "gemini"
+    },
+    {
+      "term": "executed",
+      "definition": "In legal terms, means that a document has been properly signed by the parties involved, making it legally valid and enforceable.",
+      "source": "gemini"
+    },
+    {
+      "term": "governed by and construed in accordance with",
+      "definition": "Means that the terms of an agreement will be interpreted and legally enforced according to the laws of a specified jurisdiction.",
+      "source": "gemini"
+    },
+    {
+      "term": "in consideration of",
+      "definition": "In exchange for; referring to the value, benefit, or service that each party provides to the other in a contract.",
+      "source": "gemini"
+    },
+    {
+      "term": "joint venturer",
+      "definition": "A participant in a temporary business arrangement where two or more parties combine resources for a specific project, sharing profits and risks.",
+      "source": "gemini"
+    },
+    {
+      "term": "mutual covenants",
+      "definition": "Promises or agreements made by both parties to a contract to do or refrain from doing something, forming the basis of their contractual obligations.",
+      "source": "gemini"
+    },
+    {
+      "term": "partner",
+      "definition": "An individual or entity that shares in the ownership and operation of a business, often sharing profits, losses, and management responsibilities.",
+      "source": "gemini"
+    },
+    {
+      "term": "principal place of business",
+      "definition": "The primary physical location where a company's business is managed and directed.",
+      "source": "gemini"
+    },
+    {
+      "term": "trade secrets",
+      "definition": "Confidential information that gives a business a competitive advantage because it is not generally known and is kept secret.",
+      "source": "gemini"
+    }
+  ]
+}

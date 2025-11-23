@@ -1,0 +1,66 @@
+# PyMuPDF>=1.24.4
+# Pillow>=10.0.0
+# easyocr>=1.7.1
+# fitz
+# python-docx
+# pymongo
+# python-dotenv
+# fastapi
+# uvicorn
+# passlib[bcrypt]
+# transformers>=4.44.2
+# datasets>=2.21.0
+# torch>=2.0.0
+# sentencepiece   # needed for BART/PEGASUS tokenizers
+# accelerate      # helps with training speed
+# scikit-learn
+# evaluate
+
+
+langchain>=0.3.19
+langchain-community>=0.3.19
+langchain-core>=0.3.19
+
+# Google Gemini Integration - Compatible versions
+langchain-google-genai>=2.1.12
+# Remove google-generativeai - it's automatically included as dependency
+
+# Vector Database and Embeddings
+faiss-cpu>=1.12.0
+sentence-transformers>=5.1.1
+
+# Keyword Search
+rank-bm25>=0.2.2
+
+# Document Processing
+pypdf>=4.3.1
+python-docx>=1.1.2
+python-dotenv>=1.0.1
+
+# Text Processing and Utilities
+tiktoken>=0.8.0
+numpy>=2.1.0
+pandas>=2.2.0
+
+# Memory and Caching
+diskcache>=5.6.3
+
+# Web Interface (Optional)
+streamlit>=1.39.0
+streamlit-chat>=0.1.1
+
+# Development and Testing
+pytest>=8.3.3
+python-decouple>=3.8
+google_genai
+# Google Gemini API
+google-generativeai>=0.8.3
+
+# Data processing
+pandas>=2.0.0
+
+# PDF generation
+reportlab>=4.0.0
+
+# Optional: For additional data manipulation
+numpy>=1.24.0

@@ -1,0 +1,48 @@
+```
+INDEPENDENT CONTRACTOR AGREEMENT
+
+This Independent Contractor Agreement ("Agreement") is made and entered into as of this 31 Oct 2025, by and between Vinayak Mishra ("Client"), with a principal place of business at waldhuni, Kalyan , and Vedant Mallya ("Contractor"), with a principal place of business at Parsik Colony, Kalwa(Thane-Nickname for them).
+
+WHEREAS, the Client is in need of services in the area of [Description of Services], and WHEREAS, the Contractor has the requisite skills and experience to provide said services;
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, the parties agree as follows:
+
+1. Services.
+
+The Contractor agrees to perform the following services for the Client (the "Services"):
+Develop a five-page responsive corporate website based on the Figma design mockups provided by the Client. The pages shall include: Home, About Us, Services, Blog, and Contact.
+Implement frontend development using HTML, CSS, and JavaScript, ensuring cross-browser compatibility with the latest versions of Chrome, Firefox, and Safari.
+Integrate a third-party Content Management System (CMS) to allow the Client to manage blog content.
+Develop and integrate a functional contact form that sends submissions to a designated email address and provides an automated confirmation response.
+Deploy the final, approved website to the Client's specified hosting provider and conduct post-launch user acceptance testing (UAT) to ensure full functionality.
+
+2. Term.
+
+This Agreement shall commence on the date first written above and shall continue until the Services are completed, or until terminated earlier by either party upon providing thirty (30) days written notice.
+
+3. Compensation.
+
+The Client agrees to pay the Contractor the sum of 500 Dollars ($500) upon satisfactory completion of the Services. No other fees and/or expenses will be paid to the Contractor, unless such fees and/or expenses have been approved in advance by the Client in writing. The Contractor shall be solely responsible for any and all taxes, Social Security contributions, or payments, disability insurance, unemployment taxes, and other payroll type taxes.
+
+4. Confidentiality.
+
+The Contractor acknowledges that during the engagement, they may have access to and become acquainted with various trade secrets, inventions, innovations, processes, and information which are owned by the Client and are confidential. The Contractor agrees that they will not disclose any of the aforesaid, directly or indirectly, or use any of them in any manner, either during the term of this Agreement or at any time thereafter, except as required in the course of this engagement with the Client.
+
+5. Relationship of the Parties.
+
+It is expressly understood that the Contractor is an independent contractor and not an employee, agent, joint venturer, or partner of the Client. The Contractor shall not be entitled to any of the benefits that the Client may make available to its employees.
+
+6. Governing Law.
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of [State], without giving effect to any choice of law or conflict of law provisions.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
+
+CLIENT:
+
+Vinayak Mishra
+
+CONTRACTOR:
+
+Vedant Mallya
+```

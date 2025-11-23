@@ -1,0 +1,66 @@
+{
+  "training_examples": [
+    {
+      "section_type": "payment",
+      "legal_text": "Section 3.1 Payment Terms. The Client agrees to pay the Service Provider a total amount of $50,000 within 30 days of the invoice date 2025-10-01. Late payments will incur a penalty of 2% per month. All payments must be made in USD to the account specified in Clause 3.2.",
+      "summary": "Section 3.1: Client must pay $50,000 by 2025-10-01, with 2% monthly late fees. Payments in USD per Clause 3.2.",
+      "key_elements": {
+        "dates": ["2025-10-01"],
+        "amounts": ["$50,000"],
+        "sections": ["Section 3.1"],
+        "clauses": ["Clause 3.2"],
+        "parties": ["Client", "Service Provider"]
+      }
+    },
+    {
+      "section_type": "termination",
+      "legal_text": "Clause 7.2 Termination Rights. Either party may terminate this agreement with 60 days written notice to the other party. The termination will become effective on 2025-12-31 or upon completion of all pending obligations under Section 5.",
+      "summary": "Clause 7.2: Either party can terminate with 60 days notice, effective 2025-12-31 or when Section 5 obligations complete.",
+      "key_elements": {
+        "dates": ["2025-12-31"],
+        "sections": ["Section 5"],
+        "clauses": ["Clause 7.2"],
+        "parties": ["Either party"]
+      }
+    },
+    {
+      "section_type": "liability",
+      "legal_text": "Section 8.1 Limitation of Liability. In no event shall either party be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, or goodwill, service interruption, computer damage or system failure or the cost of substitute services arising out of or in connection with this agreement, whether based on warranty, contract, tort or any other legal theory, and whether or not the party has been advised of the possibility of such damages. The total liability of each party under this agreement shall not exceed $100,000.",
+      "summary": "Section 8.1: No liability for indirect damages (lost profits, data, etc.). Total liability capped at $100,000 per party.",
+      "key_elements": {
+        "amounts": ["$100,000"],
+        "sections": ["Section 8.1"],
+        "parties": ["each party"]
+      }
+    },
+    {
+      "section_type": "confidentiality",
+      "legal_text": "Clause 9.3 Confidentiality Obligations. Each party agrees to maintain in confidence all Confidential Information received from the other party for a period of 5 years from the date of disclosure or until 2030-08-31, whichever is later. This obligation survives termination of this agreement as specified in Section 10.",
+      "summary": "Clause 9.3: Maintain confidentiality for 5 years or until 2030-08-31. Obligation survives per Section 10.",
+      "key_elements": {
+        "dates": ["2030-08-31"],
+        "sections": ["Section 10"],
+        "clauses": ["Clause 9.3"],
+        "parties": ["Each party"]
+      }
+    },
+    {
+      "section_type": "general",
+      "legal_text": "Section 2.4 Delivery Schedule. The deliverables outlined in Exhibit A must be completed and delivered according to the following schedule: Phase 1 by 2025-09-15, Phase 2 by 2025-10-30, and Final Phase by 2025-11-30. Any delays must be reported within 48 hours and may result in penalties as described in Clause 4.1.",
+      "summary": "Section 2.4: Deliverables per Exhibit A - Phase 1 (2025-09-15), Phase 2 (2025-10-30), Final (2025-11-30). 48-hour delay reporting required, penalties per Clause 4.1.",
+      "key_elements": {
+        "dates": ["2025-09-15", "2025-10-30", "2025-11-30"],
+        "sections": ["Section 2.4"],
+        "clauses": ["Clause 4.1"],
+        "references": ["Exhibit A"]
+      }
+    }
+  ],
+  "section_types": {
+    "payment": "Financial terms, payment schedules, amounts",
+    "termination": "Agreement termination conditions and procedures", 
+    "liability": "Liability limitations and damage exclusions",
+    "confidentiality": "Non-disclosure and confidentiality requirements",
+    "general": "General contractual terms and conditions"
+  }
+}

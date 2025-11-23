@@ -1,0 +1,64 @@
+{
+  "terms": [
+    {
+      "term": "Code of Conduct",
+      "definition": "A set of rules outlining the expected behaviors and ethical standards for employees within an organization.",
+      "source": "gemini"
+    },
+    {
+      "term": "Conflict of Interest",
+      "definition": "A situation where a person's personal interests or relationships could improperly influence their professional decisions or actions.",
+      "source": "gemini"
+    },
+    {
+      "term": "Disciplinary Action",
+      "definition": "A formal step taken by an employer to address an employee's misconduct or poor performance.",
+      "source": "gemini"
+    },
+    {
+      "term": "Proprietary Information",
+      "definition": "Information that a company owns and keeps secret because it provides a competitive advantage.",
+      "source": "gemini"
+    },
+    {
+      "term": "condition of employment",
+      "definition": "A specific requirement or rule that an employee must meet or follow to be hired or to keep their job.",
+      "source": "gemini"
+    },
+    {
+      "term": "confidential information",
+      "definition": "Private or sensitive data that is not meant to be shared with unauthorized individuals.",
+      "source": "gemini"
+    },
+    {
+      "term": "infraction",
+      "definition": "A minor violation or breach of a rule, law, or agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "legal action",
+      "definition": "The process of taking someone to court to resolve a dispute or enforce a right.",
+      "source": "gemini"
+    },
+    {
+      "term": "reserves the right",
+      "definition": "States that a party retains the power or option to do something in the future, even if not exercising it immediately.",
+      "source": "gemini"
+    },
+    {
+      "term": "termination of employment",
+      "definition": "The ending of an employer-employee relationship, meaning the job officially stops.",
+      "source": "gemini"
+    },
+    {
+      "term": "third party",
+      "definition": "A person or entity not directly involved in a primary agreement or transaction but who may be affected by it or participate in a secondary role.",
+      "source": "gemini"
+    },
+    {
+      "term": "written consent",
+      "definition": "Formal permission given in writing, often required for specific actions or disclosures.",
+      "source": "gemini"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+env/
+summary/outputs/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+summary.zip
+frontend.zip
+backend.zip
+Extraction_Pipeline.zip
+Legal Files for testing/Docx.zip/
+backend/uploads/
+Extraction_Pipeline/summarized_forms/
+
+
+
+# Run the command to train and load the model(from root directory)- python -m summary.train

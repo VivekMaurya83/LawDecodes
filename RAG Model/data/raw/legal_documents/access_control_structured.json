@@ -1,0 +1,52 @@
+{
+  "report_title": "Campus Access Control Report",
+  "date": "October 3, 2025",
+  "summary": {
+    "total_logs": 71,
+    "granted_entries": 55,
+    "denied_entries": 16,
+    "most_frequent_user": "Vivek Maurya"
+  },
+  "access_logs": [
+    {
+      "log_id": 2,
+      "name": "Yash Agarwal",
+      "unique_id": "22102074",
+      "decision": "Granted",
+      "time": "18:03",
+      "gate": "Gate 1"
+    },
+    {
+      "log_id": 3,
+      "name": "Rushikesh Nikam",
+      "unique_id": "10000001",
+      "decision": "Granted",
+      "time": "18:06",
+      "gate": "Gate 1"
+    },
+    {
+      "log_id": 32,
+      "name": "Unknown",
+      "unique_id": "789012345",
+      "decision": "Denied",
+      "time": "19:39",
+      "gate": "Gate 1"
+    },
+    {
+      "log_id": 41,
+      "name": "Vivek Maurya",
+      "unique_id": "23102044",
+      "decision": "Granted",
+      "time": "20:29",
+      "gate": "Gate 1"
+    },
+    {
+      "log_id": 65,
+      "name": "Unknown",
+      "unique_id": "901234567",
+      "decision": "Denied",
+      "time": "22:14",
+      "gate": "Gate 1"
+    }
+  ]
+}

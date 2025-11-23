@@ -1,0 +1,59 @@
+{
+  "terms": [
+    {
+      "term": "Code of Conduct",
+      "definition": "A set of rules outlining expected behaviors and responsibilities for individuals within an organization or group.",
+      "source": "gemini"
+    },
+    {
+      "term": "Confidential and Proprietary Information",
+      "definition": "Information that is not publicly known, holds value for an organization, and must be protected from unauthorized disclosure.",
+      "source": "gemini"
+    },
+    {
+      "term": "Conflict of Interest",
+      "definition": "A situation where a person's personal interests or relationships could improperly influence their professional judgment or actions.",
+      "source": "gemini"
+    },
+    {
+      "term": "Disciplinary Action",
+      "definition": "Formal steps taken by an employer or authority to address an employee's misconduct, poor performance, or violation of rules.",
+      "source": "gemini"
+    },
+    {
+      "term": "condition of employment",
+      "definition": "A specific requirement or term that an individual must agree to or meet in order to be hired or to retain their job.",
+      "source": "gemini"
+    },
+    {
+      "term": "infraction",
+      "definition": "A violation or breaking of a rule, law, or agreement.",
+      "source": "gemini"
+    },
+    {
+      "term": "legal action",
+      "definition": "The process of bringing a lawsuit or other legal proceedings in a court of law to resolve a dispute.",
+      "source": "gemini"
+    },
+    {
+      "term": "obligation",
+      "definition": "A duty or commitment to do something, either legally or morally.",
+      "source": "gemini"
+    },
+    {
+      "term": "prior written consent",
+      "definition": "Permission that must be obtained in writing before a specific action is taken.",
+      "source": "gemini"
+    },
+    {
+      "term": "reserves the right",
+      "definition": "States that an entity or individual has the option to take a specific action in the future, but is not obligated to do so.",
+      "source": "gemini"
+    },
+    {
+      "term": "third party",
+      "definition": "A person or entity involved in a situation or agreement, but not one of the principal parties.",
+      "source": "gemini"
+    }
+  ]
+}

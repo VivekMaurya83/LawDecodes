@@ -1,0 +1,14 @@
+{
+  "terms": [
+    {
+      "term": "Confidential and Proprietary Information",
+      "definition": "Confidential and proprietary information refers to non-public, sensitive data or trade secrets that a company owns and must protect from unauthorized use or disclosure because of its value.",
+      "source": "gemini"
+    },
+    {
+      "term": "Conflict of Interest",
+      "definition": "A conflict of interest occurs when a person's private interests could potentially bias their professional judgment or actions.",
+      "source": "gemini"
+    }
+  ]
+}

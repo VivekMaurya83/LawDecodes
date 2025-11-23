@@ -1,0 +1,23 @@
+Report Title: Access Control System Audit Report
+
+====================
+Key Metrics
+====================
+- Total Access Events: 57
+- Access Granted: 46
+- Access Denied: 11
+- Grant Rate: 80.7%
+- Unique Authorized Users: 11
+- Unknown Access Attempts: 11
+- Security Risk Level: Medium
+
+====================
+AI-Generated Insights
+====================
+1. System logged 57 total access events during the audit period.
+2. Access granted in 46 cases (80.7% success rate).
+3. Detected 11 denied access attempts requiring security review.
+4. System has 11 authorized users with valid credentials.
+5. Found 11 unauthorized access attempts from unknown individuals.
+6. All events were recorded at the 'Gate 1' location.
+7. Activity appears concentrated in standard business hours based on timestamps.

@@ -1,0 +1,24 @@
+{
+  "terms": [
+    {
+      "term": "Confidential and Proprietary Information",
+      "definition": "Information that is private, belongs to a specific entity, and is legally protected from being disclosed or used by others without permission.",
+      "source": "gemini"
+    },
+    {
+      "term": "Conflict of Interest",
+      "definition": "A situation where a person's personal interests, relationships, or duties could improperly influence their professional judgment or actions.",
+      "source": "gemini"
+    },
+    {
+      "term": "pursuit of legal action",
+      "definition": "The process of initiating a lawsuit or other legal proceedings to resolve a dispute, enforce a right, or seek a remedy in court.",
+      "source": "gemini"
+    },
+    {
+      "term": "reserves the right",
+      "definition": "To explicitly state that one maintains the option or authority to take a particular action or make a decision in the future, often under specified conditions.",
+      "source": "gemini"
+    }
+  ]
+}
